@@ -68,6 +68,7 @@ Nodes on a Web (NOAW) brings together Fediverse builders and public institutions
 | Samuel Brinkmann |          | Creator tools | Mastodon handle TBD | Building Fediverse social media management platform for creators; track follow-up demo. |
 | Nikolaus Poechhacker |          | Complex Social & Computational Systems |                  | Leads research on public-value algorithms for open digital societies. |
 | Joska Westerhof |          | University of Groningen Library (Open Educational Resources) | https://www.rug.nl/library/open-educational-resources/ | Discussed OER + Fediverse knowledge-sharing crossover. |
+| Manfred Zielinski |          | AI-focused ministerial contact | https://www.linkedin.com/in/manfredzielinski / +31 6 17 026 027 | Interested in AI developments for public sector; follow up on Fediverse policy implications. |
 |      |          |               |                  |       |
 
 ### Quick Conversation Prompts
