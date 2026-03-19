@@ -67,6 +67,7 @@ Nodes on a Web (NOAW) brings together Fediverse builders and public institutions
 | Hannes |          | Fediway / Open Social Web |                  | Explore open social web collaboration opportunities. |
 | Samuel Brinkmann |          | Creator tools | Mastodon handle TBD | Building Fediverse social media management platform for creators; track follow-up demo. |
 | Nikolaus Poechhacker |          | Complex Social & Computational Systems |                  | Leads research on public-value algorithms for open digital societies. |
+| Joska Westerhof |          | University of Groningen Library (Open Educational Resources) | https://www.rug.nl/library/open-educational-resources/ | Discussed OER + Fediverse knowledge-sharing crossover. |
 |      |          |               |                  |       |
 
 ### Quick Conversation Prompts
@@ -95,6 +96,7 @@ Nodes on a Web (NOAW) brings together Fediverse builders and public institutions
 - Additional orgs: https://academic.freedom.eu/
 - Hiring portal: https://amsterdam.nl/werkenbij
 - Gov directory: https://govdirectory.org/ — catalog of public-sector Fediverse accounts, feature ideas for institutions
+- Open Educational Resources: https://www.rug.nl/library/open-educational-resources/ (University of Groningen Library)
 
 ## Reflection
 - Biggest takeaway:
