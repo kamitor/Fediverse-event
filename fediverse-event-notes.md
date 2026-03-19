@@ -100,3 +100,8 @@ Nodes on a Web (NOAW) brings together Fediverse builders and public institutions
 - Biggest takeaway:
 - Unexpected insight:
 - What to follow up on this week:
+
+## Social Media Drafts
+- **Kickoff:** Day 1 at #NOAW is buzzing. FediVariety just unpacked the EDPS EU Voice/Video pilot—self-hosted Mastodon across EU institutions with strong privacy + governance lessons. Public-sector Fediverse isn’t hypothetical anymore.
+- **Collaboration:** “How can we work more together and make it more applicable?” Today’s Fediversity outreach + Fediway discovery sessions showed what’s possible when civic teams co-design with builders. Let’s keep aligning roadmaps. #NOAW #Fediverse
+- **Algorithms & Creators:** From Nikolaus Poechhacker’s public-value algorithm manifesto to Samuel Brinkmann’s creator toolkit, #NOAW is tackling discoverability without sacrificing Fediverse values. Transparent recommenders + smarter management tools help the right people reach the right content.
