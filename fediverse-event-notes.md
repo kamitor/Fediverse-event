@@ -54,21 +54,21 @@ Nodes on a Web (NOAW) brings together Fediverse builders and public institutions
 ## Contacts & Collaborations
 | Name | Pronouns | Project / Org | Contact Details | Notes |
 | ---- | -------- | ------------- | ---------------- | ----- |
-| Van der Waag |          |               |                  | Met during Fediversity Horizon discussion; possible collaborator on open-source adoption push. |
+| Van der Waag |          | Waag Futurelab (public technology lab) | https://waag.org/en / +31 20 557 9898 | Citizen-sensing + public social media research partner; aligned on Public Nodes + digital autonomy projects. |
 | Aditya Singh |          |               |                  |                                        |
-| Tommi |          | pan.rent / DWeb Reticulum | @tommi@pan.rent | DWeb Reticulum event happening in two weeks (Saturday); potential follow-up. |
-| Koen |          | Procolix | koen@procolix.eu / +31 6 5060 7460 | Social team contact; explore collaboration opportunities. |
-| David |          | Waag Futurelab |                  | Notes from Waag Futurelab conversations. |
-| Geert-Jan |          | CEDO / eerlijkdigitaalonderwijs.nl | geert-jan@eerlijkdigitaalonderwijs.nl | Education-focused Fediverse interest; follow up on digital literacy initiatives. |
+| Tommi |          | pan.rent / DWeb Reticulum | @tommi@pan.rent | Runs Mastodon instance pan.rent and co-organizes DWeb Reticulum meetups (next in ~2 weeks); explore cross-over with civic networks. |
+| Koen |          | ProcoliX | koen@procolix.eu / +31 6 5060 7460 | Leads digital-sovereignty hosting partner powering Academic Freedom mail, Waag, municipalities; sync on open-source stack support. |
+| David |          | Waag Futurelab | https://waag.org/en | Focused on public-value internet R&D; compare Waag's Public Nodes work with Fediversity goals. |
+| Geert-Jan |          | CEDO / eerlijkdigitaalonderwijs.nl | geert-jan@eerlijkdigitaalonderwijs.nl | Coordinates Coalition for Fair Digital Education; piloting open-source school IT stacks w/ SIDN & Soverin. |
 | Alain |          | Nelfan bookshop |                  | Blogger covering bookshop + Fediverse stories. |
 | Jasca |          | Rijksuniversiteit Groningen |                  | University contact; discuss academic Fediverse research. |
 | Douwe Staandekker |          | City of Amsterdam |                  | Discuss city-led Fediverse/AI manager efforts. |
 | Swaan Dekker |          |                  |                  | Reminder to call ("bellen") for follow-up. |
-| Hannes |          | Fediway / Open Social Web |                  | Explore open social web collaboration opportunities. |
-| Samuel Brinkmann |          | Creator tools | Mastodon handle TBD | Building Fediverse social media management platform for creators; track follow-up demo. |
-| Nikolaus Poechhacker |          | Complex Social & Computational Systems |                  | Leads research on public-value algorithms for open digital societies. |
-| Joska Westerhof |          | University of Groningen Library (Open Educational Resources) | https://www.rug.nl/library/open-educational-resources/ | Discussed OER + Fediverse knowledge-sharing crossover. |
-| Manfred Zielinski |          | AI-focused ministerial contact | https://www.linkedin.com/in/manfredzielinski / +31 6 17 026 027 | Interested in AI developments for public sector; follow up on Fediverse policy implications. |
+| Hannes |          | Fediway / Open Social Web | https://about.fediway.com/ | Building an all-in-one discovery/feed app (AGPL, closed beta March 2026); align on aggregator governance. |
+| Samuel Brinkmann |          | Creator tools | @sabrinkmann@hachyderm.io | 54gradsoftware co-founder; builds Fediverse management + analytics (Mastodon Listen lists, newsletter). |
+| Nikolaus Poechhacker |          | Complex Social & Computational Systems | https://digiones.org/ | IDea_Lab postdoc on democratic algorithms; potential partner for public-value recommender pilots. |
+| Joska Westerhof | she/her | University of Groningen Library (Open Educational Resources) | josca.westerhof@rug.nl / +31 50 36 35067 | Communications advisor supporting OER adoption; see https://www.rug.nl/library/open-educational-resources/. |
+| Manfred Zielinski | he/him | Ministry of the Interior and Kingdom Relations (IV project manager) | https://www.linkedin.com/in/manfredzielinski / +31 6 17 026 027 / @manfredzielinski@mastodon.nl | Strengthens public digital alternatives (e.g., Mastodon) and supports open digital commons per PublicSpaces profile. |
 |      |          |               |                  |       |
 
 ### Quick Conversation Prompts
@@ -80,6 +80,8 @@ Nodes on a Web (NOAW) brings together Fediverse builders and public institutions
 ## Demos & Tools Worth Trying
 - Fediway feeds — boosts cross-instance discovery; explore aggregator governance.
 - Samuel Brinkmann's creator management platform — tracks Mastodon metrics and engagement; request beta access for public-sector teams.
+- Academic Freedom email service — privacy-friendly NL-hosted mail identities for academics; consider for research partners.
+- ProcoliX open collaboration stack — turn-key Nextcloud/Matrix hosting for municipalities; explore alignment with public digital sovereignty goals.
 
 ## Action Items & Next Steps
 | Priority | Task | Owner | Due / Reminder |
@@ -94,10 +96,11 @@ Nodes on a Web (NOAW) brings together Fediverse builders and public institutions
 - Repos / code snippets:
 - Articles / standards to review: NOAW Code of Conduct, "NOAW Getting There" guide, session proposal overview
 - Collaboration boards: https://cryptpad.fedivariety.org/kanban/#/2/kanban/edit/ICZafDekeyk+zEQmeXr0DYu7/
-- Additional orgs: https://academic.freedom.eu/
-- Hiring portal: https://amsterdam.nl/werkenbij
-- Gov directory: https://govdirectory.org/ — catalog of public-sector Fediverse accounts, feature ideas for institutions
-- Open Educational Resources: https://www.rug.nl/library/open-educational-resources/ (University of Groningen Library)
+- Academic Freedom email: https://academic.freedom.eu/ — Big Tech-free academic mailboxes hosted in NL, powered by open source + ProcoliX.
+- Digital sovereignty provider: https://procolix.eu/ — open-source infrastructure partner for Waag, municipalities, Academic Freedom.
+- Hiring portal: https://amsterdam.nl/werkenbij — showcases Amsterdam municipal roles (IT/data, AI manager, civic tech).
+- Gov directory: https://govdirectory.org/ — crowdsourced Wikidata-powered index of official public-sector Fediverse/social accounts.
+- Open Educational Resources: https://www.rug.nl/library/open-educational-resources/ — University of Groningen team supporting OER adoption + training.
 
 ## Reflection
 - Biggest takeaway:
