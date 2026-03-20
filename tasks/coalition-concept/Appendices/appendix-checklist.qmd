@@ -2,6 +2,18 @@
 
 The following artefacts are required to move from this brief to a complete, submission-ready funding proposal. Items are grouped by the stage at which they are needed.
 
+## Stage 0 — Historical & archival documentation (ongoing from day one)
+
+A coalition that cannot account for its own formation process will struggle to demonstrate accountability to funders and to future members who join after the founding moment. Archival documentation is not bureaucratic overhead: it is how an organisation learns from itself, demonstrates transparency, and preserves institutional memory across inevitable volunteer turnover. Begin this work before Stage 1 activities, not after.
+
+- [ ] **Founding minutes** — verbatim or near-verbatim records of every formation meeting, including attendees, decisions made, dissenting views, and action items. Store in a version-controlled repository (e.g., a public or private Git repository) with a commit for each meeting. Do not rely on a single person's notes folder.
+- [ ] **Decision log** — a running structured record (Markdown table or equivalent) of every significant decision taken by the steering group: what was decided, who was present, what alternatives were considered, and why the chosen option was preferred. Link each entry to the relevant meeting minutes.
+- [ ] **Version-controlled founding documents** — the MoU, letters of intent, and governance documents committed to Git from their first draft, so that the evolution of the coalition's foundational agreements is permanently auditable.
+- [ ] **Stakeholder mapping archive** — preserve early-stage outreach records: who was contacted, when, what was discussed, and the outcome. This becomes invaluable for later grant reporting and for onboarding future coalition managers.
+- [ ] **Oral history approach** — schedule structured recorded interviews (15–30 minutes) with each founding member within the first six months, capturing their motivation for joining, their understanding of the coalition's purpose, and their hopes and concerns. Archive recordings and transcripts. This is standard practice in institutional memory work and is a powerful tool for recapturing tacit knowledge that does not appear in formal documents [@brown2000_organizational].
+- [ ] **Public formation narrative** — a brief (500–800 word) accessible account of how and why the coalition came into being, written for a non-specialist audience and published on the coalition's website or wiki. Update it annually. This serves both accountability and recruitment functions.
+- [ ] **Artefact deposit** — at coalition launch (or at the end of year one), deposit a versioned snapshot of all founding documents in a durable public repository: [Zenodo](https://zenodo.org/) (for citable DOI-linked deposits), the Internet Archive, or equivalent. This ensures that the coalition's founding record survives independently of any single hosting arrangement.
+
 ## Stage 1 — Coalition formation (months 1–2)
 
 - [ ] **Letter of intent template** — one-page document for anchor partners to sign, committing to steering committee participation.
@@ -39,3 +51,16 @@ The following artefacts are required to move from this brief to a complete, subm
 - [ ] **Financial management policy** — procurement thresholds, expense authorisation, audit process.
 - [ ] **Conflict of interest policy** — for steering committee members.
 - [ ] **Open access / open data policy** — many public funders require this; align with Open Science principles.
+
+## Stage 6 — Knowledge management & institutional memory (ongoing)
+
+A coalition's greatest long-term risk is not technical failure or funding gaps — it is knowledge loss. When founding members move on, when volunteers burn out, when key contributors change jobs, the institutional memory they carry leaves with them unless it has been systematically externalised. This stage addresses the systems and practices needed to make the coalition's knowledge a collective asset rather than a set of individual memories.
+
+- [ ] **Canonical document repository** — a single, well-organised, version-controlled location (Git repository, self-hosted Nextcloud, or similar) that is the authoritative home for all coalition documents. Avoid document sprawl across personal Google Drives, email threads, and chat histories. The repository should be accessible to all steering committee members and, for non-sensitive materials, to the public.
+- [ ] **Open wiki** — a collaboratively editable wiki (e.g., a public GitHub Wiki, a Wikimedia Foundation wiki, or a self-hosted instance of MediaWiki, BookStack, or Outline) for operational knowledge: how-to guides, meeting facilitation notes, platform configurations, contacts and their context. A wiki lowers the barrier to contribution compared to a Git repository for non-technical contributors.
+- [ ] **Onboarding documentation** — written materials sufficient for a new steering committee member to understand the coalition's history, current workplan, decision-making processes, and key relationships within two to four hours of reading. Update after every major governance change.
+- [ ] **Regular archival snapshots** — quarterly or annual deposits of key operational documents to a durable external repository (Zenodo, Internet Archive, institutional repository). This ensures that if the coalition's primary hosting fails, the record survives.
+- [ ] **Handover protocols** — documented procedures for transitioning any named role (chair, treasurer, technical lead, communications lead) to a successor. Each role should maintain a living "state of play" document updated before any planned transition. No role should be dependent on a single person's memory or access credentials.
+- [ ] **Communication channel archiving** — where the coalition uses chat platforms (Matrix, Mattermost, Slack), establish and document a policy for what is archived and where. Avoid making irretrievable decisions in ephemeral channels. For significant decisions arising from informal discussions, require a follow-up entry in the decision log.
+- [ ] **Annual knowledge audit** — a brief (half-day) annual review by the steering committee asking: what do we know that is not yet written down? Who holds critical knowledge with no backup? What documentation has become outdated? This is a lightweight but high-value practice drawn from knowledge management and organisational learning research [@wenger2002_cultivating].
+- [ ] **Contributor attribution and recognition** — maintain a public record (e.g., an `AUTHORS` or `CONTRIBUTORS` file in the main repository, or equivalent) acknowledging all significant contributors, including those who have moved on. This is both an ethical practice and a practical one: it makes the coalition's network of expertise visible and traceable.

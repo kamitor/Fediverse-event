@@ -18,20 +18,41 @@ The vocabulary to use:
 
 ## Programme landscape
 
+The table below maps programmes by funder type, geographic eligibility, and coalition fit. Grant ranges reflect published guidelines where available; "varies" indicates programmes with highly context-dependent awards or invitation-only tracks.
+
 | Programme | Funder | Geography | Buzzwords | Grant range | Deadline cycle | Coalition fit |
 |---|---|---|---|---|---|---|
-| **NGI Zero Commons Fund** | NLnet (EC-funded) | EU/global | trustworthy internet, open standards, privacy | €5k–€50k per project | Rolling | High — for protocol & tooling work |
-| **NGI Search** | NLnet | EU | open search, discovery, indexing | €5k–€50k | Rolling | Medium — for content discovery tools |
-| **Prototype Fund** | BMBF / Open Knowledge Foundation | Germany | civic tech, digital infrastructure, FOSS | €47k per project | 2x/year | High — for German instance operators |
-| **Digital Futures for Society** | Wellcome / Luminate | UK/EU | digital democracy, civic tech, mis/disinformation | £100k–£500k | Annual | High — for governance & research arm |
-| **Digital Defenders Partnership** | Hivos | Global | digital safety, at-risk communities | €20k–€100k | Rolling | Medium — for moderation & safety tooling |
-| **Stiftung Mercator** | Mercator | Germany/EU | Europe, openness, digital transformation | €100k–€1M | Annual invitation | High — for secretariat and strategy |
+| **NGI Zero Commons Fund** | NLnet (EC-funded) | EU/global | trustworthy internet, open standards, privacy | €5k–€50k per project | Rolling | High — protocol & tooling work |
+| **NGI Search** | NLnet | EU | open search, discovery, indexing | €5k–€50k | Rolling | Medium — content discovery tools |
+| **Prototype Fund** | BMBF / Open Knowledge Foundation DE | Germany | civic tech, digital infrastructure, FOSS | €47k per project | 2×/year | High — German instance operators |
+| **Digital Futures for Society** | Wellcome / Luminate | UK/EU | digital democracy, civic tech, mis/disinformation | £100k–£500k | Annual | High — governance & research arm |
+| **Digital Defenders Partnership** | Hivos | Global | digital safety, at-risk communities | €20k–€100k | Rolling | Medium — moderation & safety tooling |
+| **Stiftung Mercator** | Mercator Foundation | Germany/EU | Europe, openness, digital transformation | €100k–€1M | Annual invitation | High — secretariat and strategy |
 | **Robert Bosch Stiftung** | Bosch Foundation | Germany/EU | democracy, civil society, digital | €50k–€500k | Varies | Medium–High |
 | **Gemeente-fondsen (NL)** | Dutch municipalities | Netherlands | digital sovereignty, local services, accessibility | €10k–€200k | Varies | High for NL pilots |
-| **NWO / SIDN Fund** | SIDN / Dutch Research Council | Netherlands | internet resilience, NL digital infrastructure | €10k–€250k | 2x/year | High — SIDN specifically funds internet infrastructure |
+| **NWO / SIDN Fund** | SIDN / Dutch Research Council | Netherlands | internet resilience, NL digital infrastructure | €10k–€250k | 2×/year | High — SIDN specifically funds internet infrastructure |
 | **European Commission (DIGITAL)** | EC DG CONNECT | EU | digital sovereignty, public sector innovation, DSA | €500k–€5M | Annual calls | High for consortium proposals |
 | **Open Society Foundations** | OSF | Global | democracy, civic space, information integrity | €100k–€1M | By invitation | High — governance & policy framing |
-| **Ford Foundation** | Ford | Global | digital equity, internet freedom | $100k–$1M | LOI cycle | Medium — stronger for US-facing work |
+| **Ford Foundation** | Ford Foundation | Global | digital equity, internet freedom | $100k–$1M | LOI cycle | Medium — stronger for US-facing work |
+| **Horizon Europe — Democracy & Governance** | EC / Research Executive Agency | EU | democratic resilience, disinformation, civic participation | €2M–€6M (consortium) | Annual calls | High — requires academic partner |
+| **Horizon Europe — Culture, Creativity & Inclusive Society** | EC / Research Executive Agency | EU | cultural heritage, digital inclusion, social innovation | €2M–€5M (consortium) | Annual calls | Medium–High — cultural framing needed |
+| **CEF Telecom Digital** | EC INEA / CINEA | EU | cross-border digital services, interoperability, eIDAS | €500k–€3M | Annual calls | Medium — interoperability angle |
+| **Creative Europe — Media strand** | EC / EACEA | EU/EEA | media pluralism, independent media, digital distribution | €100k–€1.5M | Annual | High — media plurality narrative |
+| **EIT Digital** | EIT (EC body) | EU | digital transformation, deep tech, entrepreneurship | Varies (challenge-based) | Annual challenges | Medium — if commercial angle exists |
+| **NWO Open Science Fund** | Dutch Research Council | Netherlands | open access, research infrastructure, citizen science | €50k–€500k | 2×/year | High — for research-backed coalition work |
+| **Postcode Loterij Fonds** | Nationale Postcode Loterij | Netherlands | civil society, sustainability, social innovation | €100k–€1M+ | Application rounds | Medium–High — social mission must be prominent |
+| **Democratie en Media Fonds** | Democratie en Media Fonds NL | Netherlands | media literacy, democratic participation, journalism | €20k–€200k | Rolling / rounds | High — media democracy framing fits well |
+| **BMBF — Gesellschaft des digitalen Wandels** | German Federal Ministry of Education | Germany | digital society, open source, public participation | Varies (project-specific) | Annual calls | High — German consortium route |
+| **Volkswagen Foundation** | VolkswagenStiftung | Germany/international | fundamental research, knowledge for tomorrow | €100k–€1.5M | Rolling / thematic | Medium — research framing required |
+| **Wikimedia Sverige / Wikimedia Norge** | Wikimedia Sweden / Norway | Scandinavia | open knowledge, free content, digital commons | SEK/NOK 50k–500k | Annual | Medium — open knowledge angle |
+| **Swedish Internet Foundation (IIS)** | Internetstiftelsen | Sweden | Swedish internet, open source, digital skills | SEK 100k–2M | Annual | Medium–High — infrastructure angle |
+| **Internews** | Internews | Global | independent media, information access, digital safety | $50k–$500k | Programme cycles | Medium — media/safety framing |
+| **Mozilla Foundation MOSS** | Mozilla Foundation | Global | open-source technology, security, privacy | $10k–$500k | Rolling / quarterly | High — FOSS infrastructure fits core mission |
+| **Internet Archive** | Internet Archive | Global | digital preservation, open access, decentralisation | Varies (partnership) | By inquiry | Medium — preservation/decentralisation angle |
+| **Knight Foundation — Informed & Engaged** | John S. and James L. Knight Foundation | US/global | informed communities, media innovation, civic tech | $50k–$1M | Open calls + invitation | Medium — stronger with US partner |
+| **MacArthur Foundation 100&Change** | MacArthur Foundation | Global | systems-change, large-scale social problems | Up to $100M (competition) | 4-year cycle | Low near-term — aspirational tier |
+| **Omidyar Network — Responsible Technology** | Omidyar Network | Global | responsible technology, platform accountability, civic tech | $100k–$2M | By invitation | High — platform accountability framing fits |
+| **Fastly / OVHcloud / Hetzner (infrastructure sponsorship)** | Corporate CSR / in-kind | Global / EU | open-source, internet infrastructure, sustainability | In-kind / €5k–€50k cash | Rolling / negotiated | High for infrastructure cost offsetting |
 
 ## Priority tiers
 
@@ -40,24 +61,88 @@ The vocabulary to use:
 1. **NLnet NGI Zero** — ideal for technical sub-projects (moderation tooling, protocol extensions, accessibility). Multiple small grants across partner organisations is a viable strategy.
 2. **SIDN Fund** — direct fit for Dutch internet infrastructure angle; relationship likely already exists through ProcoliX/Waag.
 3. **Prototype Fund** — good for German partners and for funding individual developer contributions.
+4. **Mozilla MOSS** — rolling track for open-source security and privacy tools; requires a well-scoped technical deliverable.
+5. **Democratie en Media Fonds** — short application cycle; the media democracy framing requires minimal adaptation from existing materials.
 
 **Tier 2 — Apply with full proposal (6–12 months)**
 
-4. **Stiftung Mercator** — target for secretariat funding; requires a strong European identity narrative.
-5. **Digital Futures for Society** — requires a governance/research framing; pair with university partner.
-6. **EC DIGITAL programme** — highest ceiling but requires a full consortium proposal; begin relationship-building now.
+6. **Stiftung Mercator** — target for secretariat funding; requires a strong European identity narrative.
+7. **Digital Futures for Society** — requires a governance/research framing; pair with university partner.
+8. **EC DIGITAL programme** — highest ceiling but requires a full consortium proposal; begin relationship-building now.
+9. **Horizon Europe — Democracy & Governance** — substantial preparation required; identify a university research partner in year 1 and target a year-2 call.
+10. **Omidyar Network** — invitation-driven but receptive to unsolicited expressions of interest; strong fit with their platform accountability portfolio.
+11. **NWO Open Science Fund** — natural partner for a research working group; engage Dutch academic partners early.
 
 **Tier 3 — Warm and wait**
 
-7. OSF, Ford — apply once the coalition has 12 months of documented activity and impact.
-8. Municipal funds — approach individual municipalities after pilot deployments are live.
+12. OSF, Ford — apply once the coalition has 12 months of documented activity and impact.
+13. Municipal funds — approach individual municipalities after pilot deployments are live.
+14. Knight Foundation — cultivate once a US partner is confirmed.
+15. MacArthur 100&Change — a long-horizon aspiration; the coalition's model, if it demonstrates systems-change impact at scale, could be competitive in the 2028–2030 cycle.
+
+## Buzzword decoder: speaking each funder's language
+
+Funding bodies respond to the vocabulary embedded in their own strategy documents and theory of change. Adapting language is not spin — it is a signal that the applicant understands the funder's priorities. Below are four archetypes relevant to this coalition.
+
+### EU institutions (EC DG CONNECT, REA, EACEA, EIT Digital)
+
+The European Commission funds at the intersection of **policy implementation and technical demonstration**. Every successful grant in this space connects a regulation — the DSA, the Data Act, the AI Act, the European Media Freedom Act — to a concrete technical or governance artefact. The phrase "open standards-based interoperability" activates multiple EC priority pillars simultaneously. "Digital sovereignty" and "European digital autonomy" resonate with the political level; "open source public good" and "digital commons" resonate with programme officers who have read the EC's own 2020 Open Source Strategy [@ec_open_source_strategy_2020].
+
+Successful adjacent grants: the European Broadcasting Union received EC backing for its Peertube-adjacent work on open video distribution; WikiMedia Deutschland has received Horizon co-funding for knowledge infrastructure projects; the GÉANT network receives continuous EC infrastructure funding as a model of consortium-based digital infrastructure.
+
+Key principles: demonstrate a **consortium of at least three member-state entities**, show clear alignment with a named EC priority document, commit to open licensing of all outputs, and include quantified impact metrics.
+
+### National foundations (SIDN, Postcode Loterij, NWO, Democratie en Media Fonds, Prototype Fund, Stiftung Mercator, Volkswagen Foundation)
+
+National foundations operate within bounded mandates — usually defined by statute, donor intent, or a national strategy document. The most effective framing is **localisation**: connect the coalition's work to a specific national challenge or audience. For Dutch funders, "the Netherlands as a European model for open digital infrastructure" is powerful. For German funders, "strengthening civil-society digital infrastructure in the public interest" maps directly onto the Prototype Fund's published mission [@prototype_fund_2024].
+
+Successful adjacent grants: the Prototype Fund has funded multiple Mastodon ecosystem projects including accessibility tooling and content moderation improvements. SIDN has funded decentralised identity and DNS resilience projects with direct Fediverse relevance. The Volkswagen Foundation funded the "Knowledge in the Digital Age" programme, which supported open scholarly infrastructure — a close conceptual neighbour.
+
+Key principles: name the specific national community or institution that benefits, articulate the local economic or civic multiplier, and demonstrate that the lead applicant is a recognised national actor (or has a national partner who is).
+
+### US foundations (Mozilla, Knight, Ford, MacArthur, Omidyar Network, Internet Archive)
+
+US private foundations operate under a **theory of change** logic: they want to fund interventions that shift systems, not just deliver outputs. The vocabulary is "leverage", "ecosystem change", "field-building", and "scaling impact". Mozilla's MOSS programme evaluates applicants on whether the work "makes the open internet stronger" — a deliberately broad mandate that the coalition fits well [@mozilla_moss_2024]. Omidyar Network's Responsible Technology portfolio explicitly targets "platform accountability" and "alternatives to surveillance capitalism", language that maps cleanly onto the coalition's governance model [@omidyar_responsible_tech_2022].
+
+Successful adjacent grants: Mozilla has funded Matrix (decentralised messaging), Tor Project (privacy infrastructure), and multiple ActivityPub-adjacent projects. Knight has funded news co-operatives and community information infrastructure. Ford Foundation has been a major supporter of the Electronic Frontier Foundation and the Center for Democracy and Technology — both of which work in adjacent policy spaces.
+
+Key principles: lead with the **theory of change**, not the technical architecture. Show that the coalition is catalysing a broader field, not just sustaining one project. US foundations typically require a US fiscal sponsor or a 501(c)(3) partner for direct grants — identify one early.
+
+### Corporate sponsors (Fastly, OVHcloud, Hetzner, and similar)
+
+Infrastructure companies operate on **reputation and alignment** rather than philanthropy. They want association with open-source credibility, reduced customer acquisition cost in the FOSS market, and in some cases regulatory goodwill. The framing is not "we need money" but "we are building the ecosystem your customers depend on." In-kind contributions (server capacity, CDN bandwidth, DDoS protection) are often easier to secure than cash and can be converted to a cash equivalent in grant applications.
+
+Successful adjacent examples: Fastly provides substantial in-kind infrastructure to the Wikimedia Foundation. Hetzner is already a common hosting provider for Fediverse instances and has sponsored open-source events. OVHcloud has an explicit open-source programme and has partnered with European digital sovereignty initiatives [@ovhcloud_opensource_2023].
+
+Key principles: approach via their **developer relations or open-source programme teams**, not their marketing or sales. Offer logo placement and a case study, but do not offer exclusivity — it undermines the coalition's independence. Formalise in-kind contributions with a written agreement so they can be reported to other funders.
+
+## Common failure modes: why Fediverse and FOSS infrastructure proposals get rejected
+
+Understanding rejection patterns is as strategically valuable as understanding funding opportunities. The following failure modes recur across funder feedback for decentralised infrastructure proposals.
+
+### 1. The "we are already doing this" misframing
+
+The most common rejection reason is applicants describing ongoing maintenance as if it were a new initiative. Funders — especially foundations — fund **change**, not steady-state operations. A proposal that says "we will keep running our servers" will be rejected even if those servers are critical infrastructure. The mitigation is to identify a genuine step-change within the maintenance work: a new governance layer, a novel moderation tooling capability, a first-ever SLA for public institutions, or a measurable expansion of geographic reach. Frame the grant as funding the transition to a new state, not the preservation of the current one.
+
+### 2. Insufficient impact theory
+
+Fediverse proposals frequently describe the technology in detail and the community in affectionate terms, but fail to answer the funder's core question: **so what?** A technically sophisticated proposal that cannot articulate a plausible causal chain from the grant's outputs to a measurable social outcome will be deprioritised in any competitive call. The mitigation is to construct an explicit logic model: inputs → activities → outputs → outcomes → impact. For example: NLnet funding → moderation tooling development → 200 instance operators deploy the tool → harassment incidents decrease by X% → underrepresented communities experience safer online spaces → democratic participation increases. Each link must be defensible.
+
+### 3. Governance opacity
+
+Funders with accountability requirements — especially EU institutions and larger foundations — require clarity on **who controls the money and how decisions get made**. A proposal from an informal collective with no legal entity, no decision-making protocol, and no conflict-of-interest policy will not pass due diligence. The mitigation is to establish or nominate a legal host entity before applying to any programme above €50k, and to publish a governance document (even a simple one) that describes voting rights, spending authority, and dispute resolution. This is a prerequisite, not a nice-to-have.
+
+### 4. The sustainability gap
+
+Funders are increasingly wary of creating dependency. A proposal that requires continuous grant funding with no plausible path to partial self-sustainability will be viewed as a liability, particularly by foundations that have learned from the collapse of previously funded FOSS projects. The mitigation is to present a **diversified revenue roadmap**: a mix of grants (project-specific), membership fees (recurring), and service contracts (earned income). The coalition's planned membership model for institutional partners directly addresses this concern and should be foregrounded in every application, even when the immediate ask is for project-specific grant funding. Show funders that their grant is catalytic, not structural.
 
 ## A note on stacking grants
 
 The coalition's funding strategy should **stack** rather than compete:
 
-- NLnet funds *specific technical work* → feeds into the coalition's technical working group.
-- SIDN/Prototype Fund covers *individual developer contributions* → reduces secretariat costs.
-- Mercator/Luminate funds *the coalition's coordination layer* → the governance, communications, and policy work that makes the sum greater than its parts.
+- NLnet and MOSS fund *specific technical work* → feeds into the coalition's technical working group.
+- SIDN, Prototype Fund, and Democratie en Media Fonds cover *individual developer contributions and national-level pilots* → reduces secretariat costs and builds demonstrated impact.
+- Mercator, Luminate, and Omidyar Network fund *the coalition's coordination layer* → the governance, communications, and policy work that makes the sum greater than its parts.
+- Infrastructure sponsors (Hetzner, OVHcloud, Fastly) cover *operational costs in-kind* → frees cash grants for staff and programme work.
 
-This means different coalition members can apply to different programmes simultaneously without cannibalising each other's applications.
+This means different coalition members can apply to different programmes simultaneously without cannibalising each other's applications. The critical discipline is to maintain a **shared grants register** — a live document that tracks which partner is applying to which funder for which deliverable — so that the coalition never inadvertently double-counts the same cost against two different grants.

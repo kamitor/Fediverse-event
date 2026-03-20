@@ -2,109 +2,261 @@
 
 This chapter provides the narrative structure for a presentation to funders. Each section maps to a slide or slide group. Copy this structure into your presentation tool of choice; the prose here is speaker-note level detail.
 
+---
+
 ## Slide 1 — Hook
 
-> "Twitter/X is owned by one person. Facebook is optimised for engagement, not truth. TikTok is a national security debate. Meanwhile, 10 million people are quietly building something different."
+> "Twitter/X is owned by one person. Facebook is optimised for engagement, not truth. TikTok is a geopolitical fault line. Meanwhile, more than 10 million people are quietly building something different — and it is already working."
 
-One image: a map of Fediverse nodes across Europe.
+One image: a live map of Fediverse nodes across Europe, with node density shown by instance size.
 
----
-
-## Section 1 — The Problem (3–4 slides)
-
-### 1a. The platform crisis
-- Three platforms control the global public conversation.
-- Their incentive structures are structurally misaligned with public interest: engagement over accuracy, growth over wellbeing, extraction over sustainability.
-- The DSA creates obligations but not alternatives. Regulation without infrastructure is incomplete.
-
-### 1b. The infrastructure gap
-- The Fediverse runs on volunteer labour and small donations.
-- Server costs, security maintenance, moderation tooling, and protocol development are chronically underfunded.
-- One burned-out admin shutting down a large instance can displace tens of thousands of users overnight.
-- There is no equivalent of the "internet infrastructure" investment that maintains DNS, TLS certificate authorities, or BGP routing — functions so critical that they have attracted both public and private investment.
-
-### 1c. The governance gap
-- No entity currently speaks for the Fediverse as a whole.
-- Protocol development happens in the open but without coordinated resourcing.
-- Public institutions (municipalities, broadcasters, universities) that want to deploy Fediverse infrastructure have no single point of entry, no SLA, no compliance guidance.
+**Speaker note:** Open with the contrast. The audience (funders, policy officers) knows the platform crisis narrative. Move quickly to the "something different" frame — this is not a complaint about Big Tech, it is a proposal for what comes next.
 
 ---
 
-## Section 2 — The Solution (2–3 slides)
+## Section 1 — The Problem (4 slides)
 
-### 2a. What the Fediverse already is
-- 10M+ active accounts across 20,000+ servers.
-- ActivityPub is a W3C standard — the same standards body behind HTML and CSS.
-- Growing institutional adoption: Deutsche Welle, NPR, the EU itself experimented with Mastodon.
-- FOSS ecosystem: Mastodon, Pixelfed, PeerTube, Peertube, Lemmy, Misskey — each solving a different use case.
+### 1a. The Platform Crisis: What the Data Shows
 
-### 2b. What we are building
-The **[Coalition Name]** is the coordinating body the Fediverse needs:
+The dominance of a small number of social platforms is not a political opinion — it is a measurable structural condition with documented failure modes.
 
-- A shared voice for the Fediverse in policy and funding arenas.
-- A maintenance fund that pools resources for critical infrastructure.
-- A governance framework that institutional partners can trust.
-- A research and development agenda driven by public interest, not profit.
+- **Market concentration:** As of 2024, Meta (Facebook, Instagram, WhatsApp, Threads) accounts for approximately 3.98 billion monthly active users globally (to verify: current Meta Q4 2024 figure). X/Twitter, despite declining usage post-acquisition, retains approximately 350 million monthly active users and outsized influence on political and journalistic discourse (to verify: current figure).
+- **The Twitter/X API shutdown (2023):** In February 2023, Twitter abruptly eliminated free API access and raised paid-tier prices by up to 10,000%, effectively destroying thousands of civic applications, academic research tools, and open-source social media clients that had been built on the open API over 15 years. The Internet Archive's collection of Twitter data became effectively inaccessible for longitudinal research. Crisis communication tools used by NGOs and public health organisations were disabled overnight with no migration path offered.
+- **The Tumblr collapse:** Tumblr's 2018 content policy change and subsequent collapse in traffic (from approximately 521 million posts per day at peak to a fraction of that by 2022 — to verify) demonstrated that even a platform with a large, active creative community can collapse rapidly when its governance and incentive structures change. An estimated tens of millions of users lost archives of creative work, community infrastructure, and identity with no data portability standard in place.
+- **European users at specific risk:** EU citizens are subject to GDPR and DSA obligations that commercial platforms based outside the EU may interpret narrowly or inconsistently. The European Data Protection Board's 2023 rulings on Meta's behavioural advertising model (to verify: specific ruling reference) demonstrated that regulatory compliance does not translate to structural change. Approximately 400 million EU internet users (to verify) rely on communication infrastructure they neither own nor govern.
+- **The migration cost problem:** When a major platform fails or radically changes its terms, the cost of migration is not just technical — it is social. Community graphs, conversation histories, and follower networks are proprietary assets held by the platform. Independent researchers estimate that each major platform migration event costs the affected user community thousands to millions of hours of collective re-organisation time (to verify: source needed for quantification). For institutional users (municipalities, NGOs, academic departments), migration also incurs compliance, legal, and communications costs.
 
-### 2c. Why now
-- The DSA is in force and regulators are actively looking for alternatives to demonstrate.
-- The NGI programme is expanding with dedicated funding for public digital infrastructure.
-- Public disillusionment with commercial platforms is at an all-time high.
-- The technical community is ready — what is missing is coordination and capital.
+### 1b. The Infrastructure Gap
+
+The Fediverse runs on volunteer labour and small donations. This is not a temporary condition — it is the current structural reality, and it represents a systemic risk.
+
+- **Funding concentration:** The largest Fediverse instances are typically run by individuals or small informal organisations on budgets of a few hundred to a few thousand euros per month. Mastodon.social, the flagship instance, is operated by Mastodon gGmbH on a budget funded primarily by user donations and the Patreon of its founder (to verify: current revenue figure for Mastodon gGmbH).
+- **The single-admin risk:** One burned-out admin shutting down a large instance can displace tens of thousands of users overnight with little or no notice. This has happened multiple times — the closure of instances such as mastodon.online (to verify: specific instance closures as documented examples) illustrates the fragility.
+- **No equivalent to internet critical infrastructure investment:** The DNS system, TLS certificate authorities (e.g., Let's Encrypt), and BGP routing infrastructure have attracted both public and private investment because they are recognised as critical. The Fediverse, which is now a de facto communications infrastructure for millions, has not yet crossed that threshold of recognition — despite running on an open W3C standard.
+- **Security maintenance burden:** ActivityPub implementations require ongoing security patching. Without pooled resources, smaller instances cannot keep pace with vulnerability disclosures. A single unpatched vulnerability in a widely-deployed Fediverse server implementation affects the entire network.
+
+### 1c. The Governance Gap
+
+No entity currently speaks for the Fediverse as a whole. This is both a strength (no central point of capture) and a critical weakness (no central point of advocacy or accountability).
+
+- Protocol development happens in the W3C Social Web Working Group and successor venues, but without coordinated resourcing or representation from the many millions of Fediverse users.
+- Public institutions — municipalities, broadcasters, universities — that want to deploy Fediverse infrastructure have no single point of entry, no service level agreement, no compliance guidance, and no interoperability guarantee across implementations.
+- The DSA creates obligations for large platforms but does not create alternatives. When regulators seek technical consultation on federated social media, there is no credible, accountable body to consult.
+
+### 1d. The Window Is Closing
+
+The current moment is an opportunity, not a permanent condition. Three dynamics are converging:
+
+1. Public institutions are actively looking for platform alternatives following DSA implementation — but they need a procurement-ready option, not a technical experiment.
+2. Open-source communities are experiencing burnout and funding attrition. The Fediverse's volunteer infrastructure model is not sustainable past 15–20 million active accounts without structural support.
+3. Commercial players are moving into the federated space. Meta's Threads now speaks ActivityPub. If the Fediverse does not develop a governance voice before commercial ActivityPub implementations dominate, the protocol will be shaped by commercial interests.
 
 ---
 
-## Section 3 — Coalition Model (2 slides)
+## Section 2 — The Solution (3 slides)
 
-### 3a. Who we are
-- Anchor partners: [list from Chapter 2]
-- Three working groups: Technical, Policy, Funding.
-- Annual open assembly for community participation.
+### 2a. What the Fediverse Already Is
 
-### 3b. How decisions get made
-- Steering Committee: one seat per anchor partner.
-- Transparent budgeting, published annually.
+The Fediverse is not a prototype. It is a working system with demonstrated institutional adoption.
+
+- **Scale:** 10 million+ active accounts across 20,000+ servers (to verify: current fedidb.org or similar source figures at time of publication). Growing by approximately 1–2 million accounts per major platform controversy.
+- **Standards:** ActivityPub is a W3C Recommendation (2018) — the same standards body responsible for HTML, CSS, and the Web itself. This is not a community protocol; it is a formal open standard.
+- **Institutional adoption:** Deutsche Welle launched a Mastodon instance (to verify: current operational status). The European Commission itself experimented with a Mastodon instance in 2022. NPR joined and then departed Mastodon in 2023 — their departure cited resource constraints, not technical failure, illustrating precisely the gap this coalition addresses. The EU's own NLnet NGI programme has funded ActivityPub implementations.
+- **Ecosystem breadth:** Mastodon (microblogging), PeerTube (video), Pixelfed (photo sharing), Lemmy (link aggregation), Funkwhale (audio), Mobilizon (events) — each solving a different social communication use case on a shared protocol backbone.
+
+### 2b. What We Are Building
+
+The **[Coalition Name]** is the coordinating infrastructure the Fediverse needs to reach its next phase.
+
+| What we provide | What it replaces |
+|---|---|
+| A shared policy voice | Fragmented, uncoordinated individual advocacy |
+| A maintenance fund pooling resources for critical nodes | Donation-driven individual instance survival |
+| A governance framework institutional partners can trust | No entry point for public procurement |
+| A research and development agenda | Ad hoc, volunteer-driven feature development |
+| A moderation and safety standards working group | Per-instance, inconsistent community standards |
+
+The coalition does not own or operate the Fediverse. It provides the coordination layer that allows the Fediverse to punch at its actual weight.
+
+### 2c. Why Now: The EU Policy Windows
+
+Three specific EU policy developments create a funding and legitimacy window that will not remain open indefinitely.
+
+**The Digital Services Act (DSA) — Enforcement from 2024:**
+The DSA entered full enforcement for Very Large Online Platforms (VLOPs) in February 2024 and for smaller platforms in February 2024 (to verify: exact enforcement date for smaller platforms). Article 35 of the DSA requires platforms to assess and mitigate systemic risks, including threats to civic discourse. The European Commission is actively seeking technical inputs on alternative infrastructure models. A credible Fediverse coalition can position itself as a reference implementation of platform alternatives — making it both a policy resource and a beneficiary of DSA-adjacent funding.
+
+**The European Media Freedom Act (EMFA):**
+The EMFA, adopted in 2024 (to verify: final adoption date and entry into force), establishes rules protecting media pluralism and editorial independence across the EU. Public broadcasters and news organisations seeking to demonstrate platform independence for EMFA compliance purposes have a structural incentive to adopt Fediverse infrastructure. The coalition can provide the certified, SLA-backed infrastructure that makes this practically possible.
+
+**The EU's ActivityPub Experiment and NGI Funding:**
+The European Commission's own ActivityPub instance (EU Voice, launched 2022, subsequently closed — to verify: reason for closure) demonstrated both the political interest and the institutional gap. The NGI (Next Generation Internet) programme, funded through Horizon Europe, has allocated tens of millions of euros to open internet infrastructure. NGI Zero at NLnet, NGI Entrust, and future NGI streams are the most directly relevant funding channels. The coalition, by aggregating demand and providing governance legitimacy, makes individual projects within the NGI portfolio more sustainable.
+
+**The EU's Digital Decade policy targets:**
+The EU's 2030 Digital Decade targets include digital infrastructure sovereignty as an explicit objective. Fediverse infrastructure, as European-operated, open-standard, GDPR-compliant social infrastructure, directly instantiates this policy objective in a way that no commercially-operated platform can.
+
+---
+
+## Section 3 — Comparable Models: What Funders Already Know (2 slides)
+
+Funders are more confident when they can locate a proposal within a map of successful precedents. Three models are directly instructive.
+
+### 3a. Internet Archive
+
+**What it is:** A US non-profit digital library that has preserved over 800 billion web pages (to verify: current Wayback Machine figure), petabytes of books, software, audio, and video since 1996. Annual budget approximately $20–30 million (to verify).
+
+**Why it is relevant:** The Internet Archive solved the problem of long-term digital preservation by becoming a recognised public interest institution — not by becoming commercially viable. Its funding model combines foundation grants, government contracts, individual donations, and in-kind contributions from libraries and universities. It has navigated legal challenges (including active litigation around digital lending rights) while maintaining institutional independence.
+
+**What the Fediverse coalition learns:**
+- Public interest digital infrastructure can achieve institutional credibility and funding without a commercial revenue model.
+- Legal risk management (intellectual property, data governance) requires dedicated expertise and institutional backing that a purely community-run organisation cannot sustain.
+- Long-term institutional memory and archiving of social communication is itself a public interest function — a potential Fediverse coalition programme area.
+
+**Key difference:** The Internet Archive operates centralised infrastructure. The Fediverse coalition coordinates decentralised infrastructure. The governance model must reflect this.
+
+### 3b. Let's Encrypt / Internet Security Research Group (ISRG)
+
+**What it is:** Let's Encrypt, operated by ISRG, became the world's largest certificate authority by providing free, automated TLS certificates. As of 2024, it issues certificates for approximately 300–400 million active domains (to verify). ISRG is funded by a combination of large tech companies (Mozilla, Google, Cisco, Amazon), foundations, and individual donors. Annual budget approximately $5–6 million (to verify).
+
+**Why it is relevant:** Let's Encrypt solved a critical internet infrastructure problem (the cost and friction of HTTPS certificates) by making the solution a public good. The "free at point of use, funded collectively" model directly parallels what the Fediverse coalition proposes for instance hosting, security patching, and moderation tooling.
+
+**What the Fediverse coalition learns:**
+- Large commercial players will fund open infrastructure when doing so benefits their own platforms (Mozilla and Google benefit from a secure web). The Fediverse coalition should similarly map which commercial actors benefit from a healthy, stable Fediverse — and approach them for sustaining contributions without giving them governance rights.
+- Automation and tooling investment (Let's Encrypt's ACME protocol) can turn a resource-intensive manual process into a scalable public good. The coalition should identify equivalent automation opportunities in Fediverse operations (e.g., automated moderation tooling, federated content safety databases).
+- ISRG's governance structure — a board with technical expertise requirements and term limits — is a direct model for the Fediverse coalition's Steering Committee design.
+
+**Key difference:** Let's Encrypt has a single, technically well-defined function. The Fediverse coalition has a broader mandate. This requires more explicit mission boundaries to prevent scope creep.
+
+### 3c. Wikipedia / Wikimedia Foundation
+
+**What it is:** The Wikimedia Foundation (WMF) is the non-profit that hosts Wikipedia and its sister projects. As of 2024, Wikipedia serves approximately 1.7 billion unique devices per month (to verify). WMF's annual revenue is approximately $180 million (to verify: FY2024 figure), primarily from small individual donations with a long tail of major gifts.
+
+**Why it is relevant:** The Wikimedia model demonstrates that a community-governed, non-commercial, open-content commons can achieve global scale and institutional recognition. It has navigated the tension between community self-governance and institutional requirements for donors, regulators, and institutional partners for 20+ years.
+
+**What the Fediverse coalition learns:**
+- The "knowledge commons" narrative — we are maintaining shared infrastructure that belongs to everyone — is fundable at scale. The Fediverse coalition should develop an equivalent narrative: "social commons" or "communication commons."
+- Community governance at scale is hard and requires dedicated resources. Wikimedia's community disputes (e.g., the English Wikipedia ArbCom, the WMF community consultation processes) show that governance investment is not a luxury — it is essential to preventing fragmentation.
+- WMF's relationship with local chapters (Wikimedia DE, Wikimedia NL, etc.) is a direct model for the Fediverse coalition's relationship with national-level Fediverse organisations. A federated governance structure with local chapters preserves autonomy while enabling collective action.
+- Major foundation funders (Ford, Sloan, Open Society) who fund Wikimedia are the same funders who should be approached for the Fediverse coalition. Wikimedia's annual reports are a template for impact reporting.
+
+**Key difference:** Wikipedia has a single platform with a centralised content governance process. The Fediverse is inherently multi-platform and decentralised. The coalition must resist the temptation to centralise — its value proposition is coordination without capture.
+
+### Summary Comparison Table
+
+| | Internet Archive | Let's Encrypt / ISRG | Wikimedia Foundation | Fediverse Coalition (proposed) |
+|---|---|---|---|---|
+| **Core function** | Digital preservation | Security infrastructure | Knowledge commons | Social communication commons |
+| **Governance** | Board-led non-profit | Board with technical requirements | Board + community chapters | Federated multi-stakeholder |
+| **Funding model** | Grants + donations + contracts | Corporate sponsors + foundations | Mass individual donations + major gifts | Membership fees + grants + service contracts |
+| **Scale achieved** | 800B+ web pages | 300–400M domains | 1.7B users/month | Target: 25M+ active accounts |
+| **Key lesson** | Public interest = fundable without commercial model | Corporate beneficiaries fund public infrastructure | Community governance + commons narrative scales | Combine all three models |
+
+---
+
+## Section 4 — Coalition Model (2 slides)
+
+### 4a. Who We Are
+
+- Anchor partners: see Chapter 2 for full list and rationale.
+- Three Working Groups: Technical (protocol, security, hosting), Policy (DSA, EMFA, data governance), Funding (grant mapping, member fees, service contracts).
+- Annual Open Assembly for community participation, with advisory voting rights.
+- Secretariat (1.5–2 FTE in year one) hosted by an existing organisation with established grant administration capacity.
+
+### 4b. How Decisions Are Made
+
+- Steering Committee: one seat per anchor partner, maximum 12 seats.
+- Tiered voting thresholds: operational (Secretariat discretion) → strategic (two-thirds supermajority) → constitutional (three-quarters plus Assembly).
 - No single organisation holds veto power.
+- All meeting minutes and budget documents published publicly within 30 days.
+- Full governance detail in Chapter 2.
 
 ---
 
-## Section 4 — Funding Ask (2 slides)
+## Section 5 — Funding Ask (2 slides)
 
-### 4a. Budget summary
+### 5a. Budget Summary
 
 | Line | Year 1 | Year 2 | Year 3 | Total |
 |---|---|---|---|---|
-| Secretariat (1.5 FTE) | €120k | €130k | €130k | €380k |
-| Infrastructure maintenance fund | €200k | €250k | €300k | €750k |
-| Protocol & tooling development | €150k | €150k | €100k | €400k |
-| Policy & research | €80k | €100k | €80k | €260k |
-| Communications & community | €50k | €60k | €60k | €170k |
-| **Total** | **€600k** | **€690k** | **€670k** | **€1.96M** |
+| Secretariat (1.5 FTE) | €120,000 | €130,000 | €130,000 | €380,000 |
+| Infrastructure maintenance fund | €200,000 | €250,000 | €300,000 | €750,000 |
+| Protocol & tooling development | €150,000 | €150,000 | €100,000 | €400,000 |
+| Policy & research | €80,000 | €100,000 | €80,000 | €260,000 |
+| Communications & community | €50,000 | €60,000 | €60,000 | €170,000 |
+| **Total** | **€600,000** | **€690,000** | **€670,000** | **€1,960,000** |
 
-### 4b. Revenue model (years 2–3)
-- Membership fees from institutional partners (municipalities, broadcasters): €5–20k/year per partner.
-- Public grants (NGI, DFF, NWO): project-specific.
-- Service contracts (SLA, compliance support) for public sector deployments.
-- Goal: 40% self-sustaining by end of year 3.
+The infrastructure maintenance fund is not a grant to specific projects — it is a reserve that coalition-supported instances can draw on for security incidents, emergency capacity, and planned maintenance. Disbursement criteria are defined by the Technical Working Group and approved by the Steering Committee annually.
+
+### 5b. Revenue Model (Years 2–3)
+
+The coalition is designed to reach 40% self-sufficiency by end of year 3, with a path to 60% by year 5. This is an explicit condition of funder credibility — foundations do not want to fund a permanent dependency.
+
+| Revenue stream | Year 1 | Year 2 | Year 3 |
+|---|---|---|---|
+| Foundation grants (primary) | €550,000 | €450,000 | €300,000 |
+| Institutional membership fees | €0 | €80,000 | €150,000 |
+| Service contracts (SLA, compliance support) | €0 | €60,000 | €120,000 |
+| Public sector grants (NGI, DFF, NWO) | €50,000 | €100,000 | €100,000 |
+| **Total** | **€600,000** | **€690,000** | **€670,000** |
+
+The 30% funder cap (no single source exceeds 30% of annual revenue) is a structural governance rule, not a soft aspiration.
 
 ---
 
-## Section 5 — Impact (2 slides)
+## Section 6 — Impact (3 slides)
 
-### 5a. Quantitative targets (3-year)
+### 6a. Theory of Change
 
-| Metric | Target |
-|---|---|
-| Active Fediverse accounts | 25M (from 10M) |
-| Institutional deployments supported | 20+ |
-| Infrastructure uptime (coalition-supported nodes) | 99.5% |
-| Policy submissions / consultations | 10+ |
-| FOSS contributions funded | 50+ |
+The following table articulates the full causal chain from coalition activities to societal impact. This is the framework against which the coalition will report annually.
 
-### 5b. Public value narrative
-The Fediverse coalition is not building a product — it is maintaining a commons. The impact is measured not in users acquired but in:
+| Level | Description | Examples | How measured |
+|---|---|---|---|
+| **Inputs** | Resources the coalition controls and deploys | Funding, staff time, partner networks, governance structures | Budget reports, partner MoUs |
+| **Activities** | What the coalition does with those inputs | Maintenance fund disbursements; policy submissions; working group outputs; convening events; research publications | Activity logs, grant reports |
+| **Outputs** | Direct, countable products of activities | Number of instances supported; number of policy submissions; number of tooling improvements funded; number of institutional partners onboarded | Quantitative KPI dashboard |
+| **Outcomes** | Changes in behaviour or conditions attributable to coalition work | Instances that would have closed remain operational; municipalities adopt Fediverse infrastructure; EU policy reflects Fediverse interests; mainstream coverage of Fediverse increases | Counterfactual assessment; policy tracking; media monitoring |
+| **Impact** | Long-term, systemic change in the world | A significant portion of European social communication runs on open, community-governed infrastructure; citizens have a meaningful alternative to commercial platforms; European digital sovereignty is measurably enhanced | Population-level surveys; platform market share data; academic studies |
 
-- **Digital resilience:** Communities that cannot be deplatformed.
-- **Civic infrastructure:** Public institutions with a social channel they control.
-- **Democratic discourse:** Conversation spaces governed by communities, not algorithms.
-- **European sovereignty:** Infrastructure that keeps European social data in European hands.
+**Critical assumption:** The causal chain from outputs to outcomes depends on the assumption that institutional adoption (municipalities, broadcasters) is the key leverage point for broader public adoption. If institutional partners adopt Fediverse infrastructure but users do not follow, the coalition must revise its theory of change. This assumption should be tested explicitly in Year 1 via a research workstream.
+
+### 6b. Outputs, Outcomes, and Impact: Differentiated Targets (3-year)
+
+**Outputs (what we produce and deliver):**
+
+| Output metric | Year 1 target | Year 3 target |
+|---|---|---|
+| Coalition-supported Fediverse instances | 5 | 20+ |
+| Institutional partners onboarded | 8 anchor + 5 associate | 12 anchor + 20 associate |
+| Policy submissions / formal consultations participated in | 3 | 10+ |
+| FOSS contributions funded (grants to developers) | 10 | 50+ |
+| Security incidents responded to via maintenance fund | As needed | Documented case studies |
+| Working group outputs (reports, tooling, standards inputs) | 5 | 20+ |
+| Annual Assembly participants | 50 | 200+ |
+
+**Outcomes (changes we contribute to):**
+
+| Outcome metric | Baseline (2026) | Year 3 target | Measurement approach |
+|---|---|---|---|
+| Fediverse active accounts (global) | ~10M (to verify) | 25M+ | fedidb.org or equivalent monitoring |
+| EU institutional Fediverse deployments | ~5 known (to verify) | 25+ | Coalition tracking + public announcements |
+| Instances with >1 year operational continuity (coalition-supported) | Unknown | 90%+ of coalition-supported instances | Coalition monitoring |
+| EU policy documents referencing Fediverse/ActivityPub as a positive model | ~2–3 (to verify) | 10+ | Policy monitoring |
+| Fediverse coverage in mainstream EU media (positive/neutral) | Baseline survey in Y1 | 50% increase from baseline | Media monitoring service |
+
+**Impact (systemic changes we contribute to over 5–10 years):**
+
+- A measurable share of European institutional social communication running on open, federated infrastructure, reducing dependency on non-EU commercial platforms.
+- ActivityPub and related open social web standards are explicitly referenced in EU digital policy frameworks (DSA delegated acts, EMFA implementing measures, Digital Decade targets).
+- A self-sustaining multi-stakeholder coalition that remains operational and credible beyond initial grant funding — demonstrating that open social infrastructure can be governed and funded as a commons.
+- Demonstrated replication: at least two non-EU regions or countries develop comparable coalitions using the Fediverse coalition as a governance model.
+
+### 6c. Public Value Narrative
+
+The Fediverse coalition is not building a product — it is maintaining a commons. The impact is measured not in users acquired but in structural conditions created:
+
+- **Digital resilience:** Communities that cannot be deplatformed by a single corporate decision.
+- **Civic infrastructure:** Public institutions with a social communication channel they own, control, and can account for under public law.
+- **Democratic discourse:** Conversation spaces governed by communities and published rules, not optimisation algorithms with undisclosed parameters.
+- **European sovereignty:** Social communication infrastructure that keeps European social data in European hands, under European law, with European governance.
+- **Open standard stewardship:** Ensuring that ActivityPub, a W3C standard, develops in the public interest and does not become de facto controlled by any single large implementation.
+
+These are not soft outcomes. They are conditions that European public funders, DSA enforcement bodies, and democratic institutions have a direct institutional interest in seeing achieved. The Fediverse coalition frames its work not as supporting a technology community, but as building the social communication infrastructure layer that European digital sovereignty requires.

@@ -6,10 +6,11 @@
 2. **Tailor, don't template.** Each funder has a theory of change. Mirror their language back to them.
 3. **Show, don't just tell.** Where possible, point to existing deployments and impact data rather than projections.
 4. **Sequence deliberately.** Early small wins (NLnet, SIDN) give you a track record that makes Tier 1 and Tier 2 applications stronger.
+5. **Political context is not optional.** Grant applications land in a political environment. Know which committee is debating digital sovereignty this month, and reference it.
 
 ---
 
-## Email/letter templates
+## Email and letter templates
 
 ### Template A — First contact with a foundation programme officer
 
@@ -28,7 +29,55 @@
 > With thanks,
 > [Your name]
 
-### Template B — Partner invitation letter (for anchor organisations)
+---
+
+### Template A2 — Follow-up after no response (two weeks)
+
+> **Subject:** Re: Brief conversation about Fediverse public infrastructure?
+>
+> Dear [Name],
+>
+> I wanted to follow up briefly on my message of [date]. I appreciate programme officers are working through substantial inboxes, so I will keep this short.
+>
+> Since I last wrote, [one concrete update: a new partner signed / a grant awarded / a relevant policy development — e.g., "the European Commission published its DSA implementation review, which explicitly references the gap in federated infrastructure funding"]. This adds some urgency to the question of whether [Foundation] sees a role here.
+>
+> If this doesn't fit your current cycle, I'd still welcome a short note to that effect — it helps us plan our outreach. If there is appetite for a call, I'm available [two specific date options].
+>
+> Either way, thank you for your work on [specific programme or initiative you genuinely admire].
+>
+> With thanks,
+> [Your name]
+>
+> *P.S. I have attached a two-page summary of the coalition concept for reference.*
+
+**Notes on use:** The follow-up should contain exactly one new piece of information — a development that creates legitimate reason to re-engage. Do not follow up more than twice without a response. If there is still no reply after the second follow-up, mark as cold and revisit in the next funding cycle.
+
+---
+
+### Template A3 — Response to a rejection
+
+> **Subject:** Re: [Foundation] — thank you for the response
+>
+> Dear [Name],
+>
+> Thank you for taking the time to respond, and for the candour. I understand that [the timing / the geographic scope / the thematic fit] does not work for [Foundation]'s current cycle.
+>
+> I have two small requests, if you are willing:
+>
+> First, if you know of a colleague at another foundation whose mandate this might fit more directly, I would be grateful for an introduction — or simply for permission to use your name in approaching them.
+>
+> Second, would it be appropriate to stay in touch for a future cycle? The coalition is at an early stage, and I suspect the landscape may look different in twelve to eighteen months.
+>
+> I have appreciated learning about [Foundation]'s approach to [relevant area]. Whether or not there is a path to collaboration, the conversation has been useful.
+>
+> With warm regards,
+> [Your name]
+
+**Notes on use:** Rejection emails are networking opportunities. The goal is not to reverse the decision but to extract one referral or one open door. Never express disappointment; express gratitude and competence. Programme officers talk to each other.
+
+---
+
+### Template B — Partner invitation letter (anchor organisations)
 
 > Dear [Name],
 >
@@ -45,6 +94,34 @@
 >
 > I would love to discuss this with you. Could we schedule a call this month?
 
+---
+
+### Template B2 — Co-application invitation (asking a partner to co-sign a grant)
+
+> **Subject:** Co-application invitation — [Grant name / Funder] — deadline [date]
+>
+> Dear [Name],
+>
+> We are preparing an application to [Funder] under the [Programme name] call, with a submission deadline of [date]. The application is for [brief description: e.g., "a 24-month project to establish a shared governance and maintenance fund for Fediverse infrastructure in the Netherlands and Germany"].
+>
+> We would like to invite [Organisation] to participate as a co-applicant. Concretely, this would mean:
+>
+> - [Organisation] appears as a named partner on the application and in any resulting grant agreement;
+> - [Organisation] takes responsibility for [specific work package or deliverable, e.g., "the policy advisory work package, representing approximately €X of the total budget"];
+> - A representative of [Organisation] participates in project steering meetings (estimated: one per quarter);
+> - [Organisation] provides a letter of support and, if required by the funder, signs the consortium agreement.
+>
+> The draft application is attached. We would need your confirmed participation by [date, allowing time before the deadline] and your letter of support by [date].
+>
+> I am available to discuss the specifics on [two date options]. Please let me know if this is of interest, and if there are aspects of the partnership scope you would want to adjust.
+>
+> With thanks,
+> [Your name]
+
+**Notes on use:** Co-application invitations should never be sent cold. They should follow at least one substantive conversation about the funder and the project. The invitation should specify exactly what you are asking the partner to do — vague co-application requests are the most common cause of last-minute partner withdrawals. Always attach the draft application.
+
+---
+
 ### Template C — Public sector / municipality approach
 
 > Dear [Name / Title],
@@ -59,24 +136,121 @@
 
 ---
 
-## Six-month outreach timeline
+## Political mapping
 
-| Month | Action | Owner (TBD) | Goal |
-|---|---|---|---|
-| 1 | Map existing relationships to Tier 1 funders | Secretariat | Identify warm introductions |
-| 1 | Draft and circulate anchor partner MoU | Legal/governance | 3–4 signed letters of intent |
-| 2 | Coffee meetings with NLnet and SIDN contacts | Waag / ProcoliX | Qualify fit; get feedback on framing |
-| 2 | Apply to NLnet NGI Zero for first technical sub-project | Technical lead | First grant application submitted |
-| 3 | Host a coalition introduction webinar (open) | Secretariat | Build community awareness; recruit associate partners |
-| 3 | Submit Expression of Interest to SIDN Fund | NL partner | Tier 1 application in pipeline |
-| 4 | Approach Stiftung Mercator / Luminate with 2-pager | Secretariat | Begin Tier 2 relationship |
-| 4 | Approach 2–3 municipal governments with Template C | Policy WG | Identify first public sector pilot |
-| 5 | Submit full Prototype Fund application (if German partner confirmed) | German partner | Tier 1 application |
-| 6 | Review, adjust framing based on funder feedback | All | Refine messaging for Tier 2 round |
+Getting a funding brief onto a policymaker's desk requires knowing which desks matter. This section identifies the most sympathetic political terrain in the Netherlands and at EU level, and explains how to get access.
+
+### European Parliament
+
+The three committees most relevant to this coalition's agenda:
+
+**CULT — Committee on Culture and Education**
+Remit includes media policy, public service broadcasting, and digital culture. This is the most natural home for a "public interest social infrastructure" framing. The committee regularly holds hearings on platform power's impact on journalism and public discourse.
+
+*Access route:* Request a stakeholder hearing slot through the committee secretariat. Prepare a 5-minute verbal statement plus a 2-page briefing note. Ask anchor partner FSFE, if confirmed, to co-sign the briefing — FSFE has existing relationships with CULT members.
+
+*Sympathetic MEPs (to verify current committee assignments):* Members from the Greens/EFA group and the S&D group have been consistently active on media freedom and digital sovereignty. Look at Members who signed the 2023 Media Freedom Act amendments (to verify). Key names to research: MEPs from the Netherlands (Liesje Schreinemacher's replacement — to verify), Germany (Greens delegation), and France (Renew Europe digital policy voices).
+
+**IMCO — Committee on the Internal Market and Consumer Protection**
+Remit includes the Digital Services Act and Digital Markets Act implementation. As DSA interoperability obligations come into force, IMCO is the forum where those obligations will be scrutinised. A coalition that presents itself as the working implementation of DSA interoperability goals has a natural claim on IMCO's attention.
+
+*Access route:* Submit written input to DSA implementation hearings and rapporteur consultations. Time submissions to coincide with Commission progress reports (the Commission must report on DSA implementation annually).
+
+*Sympathetic MEPs:* The DSA's original rapporteur was Christel Schaldemose (S&D, Denmark) (to verify current role). Dita Charanzová (Renew, Czech Republic) has been active on digital markets (to verify). Dutch MEPs on IMCO are the most direct point of contact.
+
+**LIBE — Committee on Civil Liberties, Justice and Home Affairs**
+Remit includes data protection, fundamental rights online, and surveillance. The GDPR compliance and data sovereignty angle of the Fediverse is a natural fit for LIBE. The committee is also alert to foreign ownership of communications infrastructure.
+
+*Access route:* LIBE holds regular hearings on fundamental rights in the digital environment. Organisations with GDPR compliance expertise (Waag, FSFE) are credible witnesses. Frame the coalition's work as a practical implementation of GDPR-by-design.
+
+*Sympathetic MEPs:* The committee has consistently had strong engagement from civil liberties-oriented MEPs across S&D, Greens, and Renew. Sophie in 't Veld (Renew, NL) has been one of the most prominent voices on digital rights in LIBE — confirm current status (to verify, she left EP in 2024).
 
 ---
 
-## Decision tree: parallel vs. sequential
+### European Commission Directorates-General
+
+**DG CONNECT (Communications Networks, Content and Technology)**
+This is the primary DG for digital infrastructure, open internet standards, and the DSA/DMA implementation. The NGI (Next Generation Internet) programme, which has funded multiple Fediverse-adjacent projects, sits within DG CONNECT's portfolio.
+
+*Access route:* DG CONNECT runs regular stakeholder consultations, which are published on the Europa.eu "Have Your Say" portal. Submit responses to all relevant consultations (DSA implementation, interoperability standards, digital public goods). More directly: NLnet has an established relationship with DG CONNECT programme officers. A coalition endorsed by NLnet or citing NLnet-funded projects will get a more attentive reading.
+
+*Key policy windows:* The rolling NGI Zero calls; the annual Digital Decade progress report consultations; any new action plans under the European Democracy Action Plan (EDAP).
+
+**DG DEMOCRACY (Democracy, Rule of Law and Fundamental Rights)**
+Established in 2023 (to verify exact establishment date), this DG coordinates the European Democracy Action Plan and measures to protect democratic discourse online. The public interest social infrastructure framing is a near-perfect fit.
+
+*Access route:* EDAP implementation involves regular civil society dialogues. Register on the EU Civil Society Contact Group portal. The DG is newer and has less established stakeholder infrastructure than DG CONNECT — this means more openness to new voices but also less predictable access.
+
+**DG RTD (Research and Innovation)**
+Administers Horizon Europe. Relevant for academic partner engagement and for any research-oriented coalition activities. Cluster 4 (Digital, Industry and Space) and the "Innovations for a more democratic society" strand are most relevant (to verify current Work Programme headings).
+
+---
+
+### Netherlands — Tweede Kamer
+
+The Tweede Kamer's most relevant standing committee is the **Vaste Commissie voor Digitale Zaken** (Standing Committee on Digital Affairs), which was established to provide dedicated parliamentary oversight of digitisation policy. This committee regularly holds hearings with civil society and expert witnesses.
+
+*Access route:* Request a briefing session through the committee clerk. A formal letter from the coalition, co-signed by Waag (which has existing Kamer relationships) and any municipal partner, carries weight. Prepare a one-page Dutch-language summary — committee members vary in technical familiarity, and Dutch-language materials signal that you are speaking to a Dutch public interest, not a Brussels lobbying agenda.
+
+*Sympathetic MPs (to verify current committee membership):*
+
+- **D66** has been the most consistently active parliamentary party on digital rights and open standards. Look for the current D66 spokesperson on digitisation.
+- **GroenLinks-PvdA** (merged parliamentary group since 2023) — strong interest in platform power and workers' rights in the digital economy.
+- **NSC** (Nieuw Sociaal Contract) — has expressed interest in digital sovereignty framing, particularly around foreign dependency (to verify consistency of position).
+- **SP** — receptive to "public infrastructure" framing, especially if the argument is made in terms of democratic accountability rather than technical openness.
+
+*Parliamentary calendar relevance:* The Kamer committee holds a regular "tweeminutendebat" (two-minute debate) following every major briefing session. Ensure coalition spokespeople attend these sessions — they are opportunities to enter the parliamentary record and to demonstrate sector credibility.
+
+---
+
+### How to get a meeting: practical protocol
+
+1. **Map the warm path first.** Before cold-contacting an MEP's office, ask anchor partners who has existing relationships. Waag has Kamer relationships; FSFE has EP relationships. A warm introduction reduces response time from 6 weeks to 6 days.
+
+2. **Send a one-pager, not a deck.** Political staff read one page. The deck is for the meeting. The one-pager should contain: the problem in one sentence, the coalition's approach in two sentences, the ask in one sentence, and three bullet-point proof points. Maximum 400 words.
+
+3. **Use consultations as a foot in the door.** Submitting a written response to an official consultation is the lowest-effort way to get on a DG's radar. It also gives you a formal citation in future meetings ("as we noted in our response to the DG CONNECT consultation of [date]").
+
+4. **Offer something, not just an ask.** MEP offices are perpetually short of expert witnesses for hearings. Offering a coalition spokesperson as a witness — on relevant hearings, in writing if not in person — creates a relationship of mutual usefulness.
+
+5. **Follow the money, follow the calendar.** Meetings requested in the three weeks before a Commission Work Programme deadline, or in the week before a committee vote, will not be accepted. The window after a major digital policy announcement (new regulation, implementation report, Commission Communication) is the best moment: decision-makers are receptive to input, and the framing is live.
+
+---
+
+## Twelve-month outreach timeline
+
+This timeline integrates grant outreach, partner recruitment, political engagement, and press moments. Political milestones are flagged where they create natural windows for coalition action.
+
+| Month | Action | Owner | Goal | Political window |
+|---|---|---|---|---|
+| **1** | Map existing relationships to all Tier 1 funders | Secretariat | Identify warm introductions; identify cold targets | — |
+| **1** | Draft and circulate anchor partner MoU | Legal/governance | 3–4 signed letters of intent | — |
+| **1** | Register for EU Civil Society Contact Group (DG DEMOCRACY) | Policy WG | Gain access to EDAP consultation pipeline | — |
+| **2** | Coffee meetings with NLnet and SIDN programme officers | Waag / ProcoliX | Qualify fit; get feedback on framing | — |
+| **2** | Apply to NLnet NGI Zero for first technical sub-project | Technical lead | First grant application submitted | NGI Zero rolling call |
+| **2** | Submit written input to any live DG CONNECT consultation | Policy WG | Enter Commission stakeholder record | Monitor "Have Your Say" portal |
+| **3** | Host coalition introduction webinar (open) | Secretariat | Build awareness; recruit associate partners | — |
+| **3** | Submit Expression of Interest to SIDN Fund | NL partner | Tier 1 application in pipeline | — |
+| **3** | Request briefing meeting with Vaste Commissie voor Digitale Zaken | Policy WG | Enter Tweede Kamer record; identify sympathetic MPs | Kamer autumn session |
+| **4** | Approach Stiftung Mercator / Luminate with 2-pager | Secretariat | Begin Tier 2 relationship | — |
+| **4** | Approach 2–3 municipal governments with Template C | Policy WG | Identify first public sector pilot | — |
+| **4** | Approach EP CULT committee secretariat re: stakeholder hearing | Policy WG | Secure EP visibility | CULT hearing calendar (to verify) |
+| **5** | Submit full Prototype Fund application (if German partner confirmed) | German partner | Tier 1 application | Prototype Fund deadline (typically spring/autumn) |
+| **5** | Confirm first public sector partner; issue press release | Comms | Anchor the "institutional adoption" proof point | Coordinate with municipal communications |
+| **6** | Review and adjust framing based on funder feedback | All | Refine messaging for Tier 2 round | — |
+| **6** | Publish six-month progress report (public, short) | Secretariat | Demonstrate accountability; recruit new partners | Coordinate with DSA implementation report if published |
+| **7** | Begin Horizon Europe consortium-building (if academic partner confirmed) | Research WG | Prepare for Cluster 4 or EDAP call | Horizon Europe Work Programme 2025/26 calls (to verify) |
+| **7** | Submit response to IMCO DSA interoperability hearing | Policy WG | Position coalition as DSA implementation actor | IMCO DSA review schedule (to verify) |
+| **8** | Approach public broadcaster (NPO or equivalent) | Secretariat | Secure media sector credibility | — |
+| **9** | Submit Tier 2 application (Mercator / Luminate / Open Society) | Secretariat | Major funding round | — |
+| **9** | Host first in-person coalition assembly | Secretariat | Ratify governance structure; launch membership tier | — |
+| **10** | Brief newly elected/reshuffled EP committee members (if post-June 2024 EP) | Policy WG | Refresh political relationships after EP elections | EP committee reconstitution |
+| **11** | Begin preparation of European Commission call application | Secretariat + Technical | Tier 3 pipeline | DG CONNECT Work Programme |
+| **12** | Publish one-year impact report | All | Evidence for renewal applications; press story | Coordinate with funder anniversary communications |
+
+---
+
+## Decision tree: parallel vs. sequential funding applications
 
 ```
 Start here
@@ -89,7 +263,48 @@ Start here
 │   ├── YES → NLnet, Prototype Fund. Apply immediately, multiple in parallel.
 │   └── NO  → Sequence: SIDN (3 months) → Mercator/Luminate (6–9 months) → EC (12+ months)
 │
-└── Is a municipality or broadcaster involved as a partner?
-    ├── YES → Use their institutional letterhead for Template C. Opens public sector funder doors.
-    └── NO  → Focus on foundation route first; add public sector as evidence of adoption later.
+├── Is a municipality or broadcaster involved as a partner?
+│   ├── YES → Use their institutional letterhead for Template C.
+│   │         Opens public sector funder doors.
+│   └── NO  → Focus on foundation route first; add public sector
+│             as evidence of adoption later.
+│
+└── Is there an active EP committee hearing or Commission consultation?
+    ├── YES → Coordinate a written submission or speaker request with
+    │         the grant outreach cycle. Political visibility strengthens
+    │         applications submitted within 4–6 weeks of the hearing.
+    └── NO  → Build the political pipeline (briefings, consultations)
+              in parallel; do not wait for a political moment to begin
+              grant outreach.
 ```
+
+---
+
+## Coalition communications calendar
+
+This calendar operationalises the coalition's external communications on a monthly rhythm. The goal is consistent, low-overhead presence that accumulates credibility over time — not a burst of activity around launches followed by silence.
+
+**Irony note:** The coalition's primary social media presence should be on the Fediverse itself. This is not merely principled — it is the strongest possible demonstration of the coalition's credibility. An account on Mastodon (or a self-hosted ActivityPub instance) provides a live proof-of-concept and reaches the community the coalition serves.
+
+| Month | Newsletter | Fediverse / Social | Events | Press |
+|---|---|---|---|---|
+| **Month 1** | Internal founding partner update (not public) | Account created; introduce the coalition in 3 posts | — | Hold — no public announcement until 3 partners signed |
+| **Month 2** | First public newsletter: coalition rationale, call for associate partners | Weekly posts: explain the Fediverse for a non-technical audience (one concept per week) | Coffee meetings (private) | — |
+| **Month 3** | Partner spotlight: profile one anchor partner | Share public policy developments (DSA, EDAP) with commentary | Webinar: open introduction to the coalition | Pitch NRC or de Volkskrant for a feature |
+| **Month 4** | Funding update: first grant application submitted | Amplify municipal adoption stories | — | — |
+| **Month 5** | Policy briefing: what the DSA means for federated infrastructure | Engage with EP CULT hearing if held; live-post from the Fediverse | — | Press release if first public sector partner confirmed |
+| **Month 6** | Six-month review: what we've learned, what's changed | Community call for feedback on coalition priorities | Annual open community consultation (virtual) | Pitch progress story to Politico EU or Euractiv |
+| **Month 7** | Partner spotlight: profile one associate partner | Share Horizon Europe / NGI funding opportunities for community members | — | — |
+| **Month 8** | Policy calendar preview: key windows in months 9–12 | Begin building an EP election framing narrative (if relevant) | — | — |
+| **Month 9** | Governance update: first assembly held, membership tier launched | Live-post from coalition assembly | First in-person coalition assembly | — |
+| **Month 10** | Funder transparency report: which applications are in pipeline | Amplify member organisation news | — | — |
+| **Month 11** | Community survey: what does the Fediverse community need from the coalition? | Share survey widely; respond to replies personally | — | — |
+| **Month 12** | Annual impact report (public) | Thread summarising the year: what was built, what was funded, what is next | Year-end celebration post/event | Pitch impact report to Wired EU, NRC, Politico EU |
+
+**Newsletter cadence:** Monthly is the minimum; bi-monthly risks losing continuity. Keep newsletters to 400 words maximum. Funders read them; keep the tone professional but not corporate.
+
+**Fediverse account:** One primary account (e.g., `@publicsocialalliance@[instance]`) plus individual spokesperson accounts that cross-post. Engage with replies — the Fediverse community values responsiveness and will notice institutional accounts that broadcast without listening.
+
+**Event types:** Distinguish between *closed* (partner meetings, grant conversations), *semi-open* (webinars for invited stakeholders), and *open* (public assemblies, conference appearances). Do not make grant-related meetings public; do make governance and community events public.
+
+**Press rhythm:** Issue no more than four press releases per year. Quantity dilutes newsworthiness. Each release should announce something concrete (partner, grant, policy submission, impact report) — not a process or an intention.

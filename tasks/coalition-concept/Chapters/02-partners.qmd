@@ -1,36 +1,232 @@
 # Anchor Partners
 
-## Rationale for a coalition model
+## Rationale for a Coalition Model
 
 A coalition adds credibility that a single organisation cannot. Funders evaluating proposals ask: "Who else believes in this?" A strong anchor partner list signals sector-wide consensus, reduces perceived risk, and opens doors to programme officers who recognise partner names.
 
 The partners listed here are **anchor organisations** — founding members or early signatories who shape the coalition's governance and lend their reputation to its launch. A second tier of **associate partners** (service providers, research users, community instances) will be recruited once the anchor coalition is stable.
 
-## Anchor partner shortlist
+The coalition deliberately spans five sectors: civil society advocacy, technical operations, public broadcasting, municipal government, and academic research. This breadth is not decorative. Funders — particularly European public funders — look for multi-stakeholder legitimacy. A coalition that includes only technologists will be read as a special-interest group; one that includes municipalities, public broadcasters, and rights organisations is legible as public interest infrastructure.
+
+---
+
+## Anchor Partner Shortlist
 
 | Organisation | Type | Country | Why relevant | Proposed role | Contact status |
 |---|---|---|---|---|---|
-| **FediVariety** | Infrastructure operator | NL | Operates diverse Fediverse services; deep technical credibility | Technical advisory, instance hosting | To be approached |
-| **Waag** | Public interest tech | NL | Long track record in civic tech, open hardware, EU projects | Programme leadership, EU liaison | Existing relationship |
-| **ProcoliX** | Hosting co-operative | NL | Member-owned infrastructure; proof of sustainable co-op model | Infrastructure backbone, governance model | To be approached |
-| **Gemeente Amsterdam / other municipalities** | Public sector | NL/EU | Political legitimacy; demonstrates public sector adoption | Anchor funder, pilot deployment | TBD — requires political mapping |
-| **NPO / public broadcaster** | Media | NL | Institutional reach; editorial independence arguments | Content partner, public communication | To be approached |
-| **University partner (TBD)** | Academic | EU | Research credibility; access to Horizon Europe | Research arm, impact evaluation | TBD |
-| **FSFE (Free Software Foundation Europe)** | Advocacy CSO | EU | Policy expertise; established EU network | Policy advisory | To be approached |
+| **Waag Futurelab** | Public interest tech | NL | 25+ years in civic tech, open-source, and EU-funded digital rights projects; strong existing funder relationships with NWO and EU | Programme leadership, EU liaison | Existing relationship |
+| **FediVariety** | Infrastructure operator | NL | Operates a diverse cluster of Fediverse services; deep protocol-level technical credibility | Technical advisory, instance hosting | To be approached |
+| **ProcoliX** | Hosting co-operative | NL | Member-owned infrastructure hosting co-op; proof-of-concept for sustainable co-operative governance in the hosting sector | Infrastructure backbone, governance model reference | To be approached |
+| **Mastodon gGmbH** | Non-profit software developer | DE | The legal entity behind Mastodon, the largest Fediverse platform; direct stewardship of protocol-adjacent development | Technical standards, protocol advisory | To be approached |
+| **Framasoft / PeerTube** | Non-profit software publisher | FR | Publishes PeerTube (federated video), Mobilizon, and other FOSS tools; long track record of sustainable open-source funding campaigns | Software ecosystem, protocol stewardship | To be approached |
+| **Funkwhale Collective** | Community software project | EU/international | Develops Funkwhale (federated audio); a smaller but technically sophisticated team demonstrating community-governed FOSS sustainability | Software ecosystem, community governance model | To be approached |
+| **Free Software Foundation Europe (FSFE)** | Advocacy CSO | EU | Pan-European policy expertise; established relationships with EU institutions; "Public Money, Public Code" campaign directly relevant | Policy advisory, EU advocacy | To be approached |
+| **Electronic Frontier Foundation (EFF)** | Digital rights CSO | US | Globally recognised digital rights authority; active in ActivityPub policy space; US funding network access | Policy advisory, international outreach | To be approached |
+| **European Digital Rights (EDRi)** | Digital rights network | EU | 44-member pan-European network; direct engagement with DSA/DMA legislative processes; convening power across member states | Policy advisory, DSA liaison | To be approached |
+| **La Quadrature du Net (LQDN)** | Digital rights CSO | FR | Technically sophisticated French advocacy organisation; active Fediverse presence; experience with EU data protection and platform regulation | Policy advisory, French-language community | To be approached |
+| **Software Freedom Conservancy (SFC)** | FOSS fiscal sponsor | US | Fiscal sponsorship and legal home for 50+ FOSS projects; GPL enforcement expertise; provides governance infrastructure the Fediverse lacks | Legal/fiscal hosting model, licence advisory | To be approached |
+| **Chaos Computer Club (CCC)** | Hacker/civic tech CSO | DE | Europe's largest hacker association; deep credibility in technical community; annual Congress amplifies coalition messaging | Community credibility, technical advisory, communications |  To be approached |
+| **Bits & Bäume** | Sustainability/tech coalition | DE | Bridges digital rights and environmental sustainability communities; demonstrates cross-movement coalition-building | Sustainability framing, German civil society | To be approached |
+| **Oxford Internet Institute (OII)** | Academic research | UK | Leading academic institution for internet governance, platform studies, and digital society research; evidence base for policy arguments | Research arm, impact evaluation, academic credibility | To be approached |
+| **Humboldt Institute for Internet and Society (HIIG)** | Academic research | DE | Berlin-based; EU-funded research on digital constitutionalism and platform governance; German-language policy access | Research arm, policy evidence | To be approached |
+| **City of Amsterdam (Digitale Stad / CTO Office)** | Municipal government | NL | Amsterdam's digital strategy explicitly references open standards and data sovereignty; pilot municipality candidate; political legitimacy | Anchor funder, pilot deployment, public sector proof point | TBD — requires political mapping |
+| **Deutsche Welle / ARD** | Public broadcaster | DE | Deutsche Welle launched a Mastodon instance in 2022 (to verify: current operational status); ARD has explored ActivityPub; public broadcaster adoption is a flagship proof point for funders | Content partner, institutional Fediverse adoption showcase | To be approached |
+| **NPO / Nederlandse Publieke Omroep** | Public broadcaster | NL | Dutch national public broadcaster; natural fit with NL-anchored coalition; editorial independence arguments for Fediverse adoption | Content partner, public communication | To be approached |
 
-## Partner engagement principles
+---
+
+## Partner Mapping: Influence vs. Alignment
+
+The matrix below places anchor candidates on two axes: **institutional influence** (funding weight, policy access, public visibility) and **mission alignment** (how closely the organisation's core mandate matches Fediverse coalition goals). Positioning is assessed at the time of writing (March 2026) and should be re-verified before outreach.
+
+### The 2x2 Matrix
+
+```
+HIGH INFLUENCE
+      │
+      │   CONVINCIBLES          │   CHAMPIONS
+      │   Bring in early;       │   Lead with these;
+      │   find the hook         │   co-design the ask
+      │                         │
+      │   City of Amsterdam     │   Waag Futurelab
+      │   NPO / ARD / DW        │   FSFE
+      │   OII                   │   EDRi
+      │   HIIG                  │   Mastodon gGmbH
+      │                         │   EFF
+      │                         │   La Quadrature du Net
+──────┼─────────────────────────┼──────────────────────────
+      │                         │
+      │   SPECTATORS            │   BUILDERS
+      │   Monitor; invite to    │   Engage as technical
+      │   Assembly; don't       │   working group leads;
+      │   over-invest           │   coalition backbone
+      │                         │
+      │   Bits & Bäume          │   FediVariety
+      │   (nascent overlap)     │   ProcoliX
+      │                         │   Funkwhale Collective
+      │                         │   Framasoft / PeerTube
+      │                         │   SFC
+      │                         │   CCC
+LOW INFLUENCE                   │
+                   LOW ALIGNMENT   HIGH ALIGNMENT
+```
+
+**Champions** (high influence, high alignment): These organisations already work in the Fediverse policy and advocacy space. They should be approached first, involved in governance design, and listed as founding partners in all materials.
+
+**Convincibles** (high influence, lower alignment): Public broadcasters and municipalities have the institutional weight funders want to see, but their relationship to the Fediverse is currently pragmatic rather than ideological. The outreach argument for these partners is operational: the coalition offers a trusted procurement pathway and SLA-grade support. They do not need to believe in decentralisation to be convinced that the coalition solves a real institutional problem.
+
+**Builders** (lower institutional influence, high alignment): The technical core of the coalition. They may not open doors at foundations, but they are essential for credibility with the technical community and for actual delivery. Their governance weight should reflect this: strong Working Group representation, even if Steering Committee seats are weighted toward higher-influence partners.
+
+**Spectators** (lower influence, lower alignment): Bits & Bäume overlaps on sustainability framing and may become more relevant as the coalition develops an environmental impact narrative (server energy, data centre location). Treat as associate partners and Annual Assembly participants rather than anchor co-founders.
+
+**Potential blockers** (not listed as partners, but worth mapping separately): Large commercial cloud providers (AWS, Azure, Hetzner at scale) have interests in providing hosting to Fediverse instances. Their involvement should be governed by clear conflict-of-interest rules. Similarly, any venture-backed Fediverse-adjacent startup whose business model depends on lock-in could create governance tension.
+
+---
+
+## Coalition Risks
+
+### Risk 1: Key Partner Withdrawal
+
+**Scenario:** A high-visibility anchor partner (e.g., a public broadcaster, or Mastodon gGmbH) withdraws after the coalition launches, either due to internal political change, funding pressure, or a public controversy involving another coalition member.
+
+**Likelihood:** Medium. Institutional partners face changing priorities; a single election or leadership change can reverse a municipality's digital policy commitment.
+
+**Impact:** High. Funder confidence depends on the partner list. A high-profile withdrawal triggers a credibility crisis and may cause cascade withdrawals.
+
+**Mitigations:**
+- Design a **minimum quorum rule**: the coalition can operate as long as at least 7 of 12 anchor partners remain active. This prevents any single withdrawal from being existential.
+- Negotiate **MoU exit clauses** with a 90-day notice period, during which the coalition can recruit a replacement anchor.
+- Maintain an **anchor pipeline** of 3–5 warm organisations at associate-partner level at all times.
+- Avoid over-indexing coalition identity on any single organisation's brand. The coalition name and visual identity should be independent.
+
+---
+
+### Risk 2: Governance Deadlock
+
+**Scenario:** The Steering Committee cannot reach consensus on a major decision — a significant grant application, a controversial policy position, or a decision to admit or exclude a partner. The 1-seat-per-partner model produces a 6–6 split with no mechanism to break the tie.
+
+**Likelihood:** Medium-high. Multi-stakeholder coalitions with diverse member types routinely experience governance gridlock, particularly when policy positions are at stake (e.g., a coalition position on end-to-end encryption, or whether to accept a government grant with conditions).
+
+**Impact:** Medium. Deadlock on operational matters can be managed; deadlock on major strategic decisions paralyses the coalition and erodes trust.
+
+**Mitigations:**
+- Introduce **tiered decision-making** (see Governance Model below): routine operational decisions by simple majority, strategic decisions by two-thirds supermajority, constitutional changes by three-quarters plus Annual Assembly ratification.
+- Establish a **Disputes and Mediation Protocol** from day one: an independent mediator is pre-agreed (e.g., a respected figure from the European civil society sector not affiliated with any partner).
+- Define **reserved powers** for the Secretariat: a set of operational decisions the Secretariat can take unilaterally (within an approved budget) without Steering Committee approval, so daily operations are not blocked by governance gridlock.
+
+---
+
+### Risk 3: Mission Drift
+
+**Scenario:** Over time, the coalition's agenda shifts toward the interests of its most resource-rich members. Public sector partners begin pushing for features (compliance tooling, content moderation outsourcing) that serve their institutional needs but undermine the open, community-governed character of the Fediverse. Or: commercial hosting partners gain influence and push infrastructure choices that favour proprietary lock-in.
+
+**Likelihood:** Medium. This is the canonical failure mode of multi-stakeholder organisations that begin with civil society leadership and gradually become industry-captured.
+
+**Impact:** High. Mission drift that becomes visible to the open-source community triggers a legitimacy crisis. Community trust, once lost, is very difficult to recover.
+
+**Mitigations:**
+- Enshrine a **Mission Lock clause** in the coalition's articles of association: the core mission (open, federated, non-commercial public digital infrastructure) can only be amended by a three-quarters Steering Committee vote plus a majority of the Annual Assembly. This makes mission drift structurally difficult.
+- Require a **Community Seat**: at least two seats on the Steering Committee are reserved for organisations without a commercial or public sector interest — pure civil society or community groups elected by Annual Assembly participants.
+- Conduct an annual **Mission Fidelity Review**: an independent assessment (by the Academic Working Group or an external evaluator) of whether coalition activities remain aligned with founding mission.
+- Publish all Steering Committee meeting minutes and voting records publicly within 30 days.
+
+---
+
+### Risk 4: Funding Concentration
+
+**Scenario:** 70%+ of coalition funding comes from a single funder (e.g., NLnet, or a single large foundation). That funder changes priorities, is defunded, or imposes conditions incompatible with the coalition's mission.
+
+**Mitigation:** The coalition targets no single funder exceeding 30% of total revenue in any given year. The revenue diversification strategy (membership fees, service contracts, multiple grant streams) is not aspirational — it is a structural safeguard and should be articulated as such to funders.
+
+---
+
+## Governance Model
+
+### Decision-Making Flowchart
+
+The following structure governs coalition decisions from daily operations to constitutional change.
+
+```
+                    ┌─────────────────────────────┐
+                    │   Issue or proposal raised   │
+                    └──────────────┬──────────────┘
+                                   │
+                    ┌──────────────▼──────────────┐
+                    │  Is this an operational      │
+                    │  matter within approved      │
+                    │  budget?                     │
+                    └──────┬───────────────┬───────┘
+                           │ YES           │ NO
+                    ┌──────▼──────┐ ┌──────▼──────────────────┐
+                    │ Secretariat │ │ Is this a strategic       │
+                    │ decides;    │ │ decision (new programme,  │
+                    │ reports to  │ │ major grant, policy       │
+                    │ SC monthly  │ │ position)?                │
+                    └─────────────┘ └──────┬──────────────┬────┘
+                                           │ YES          │ NO (constitutional)
+                               ┌───────────▼──────┐ ┌────▼──────────────────┐
+                               │ Steering Committee│ │ Steering Committee    │
+                               │ vote              │ │ 3/4 supermajority     │
+                               │ 2/3 supermajority │ │ PLUS Annual Assembly  │
+                               │ required          │ │ majority ratification │
+                               └──────┬────────────┘ └───────────────────────┘
+                                      │
+                          ┌───────────▼──────────┐
+                          │   Passes?             │
+                          └────┬─────────────┬───┘
+                               │ YES         │ NO
+                          ┌────▼────┐   ┌────▼──────────────────┐
+                          │ Proceed │   │ Return to working group│
+                          │         │   │ for revision; or refer │
+                          └─────────┘   │ to Disputes Protocol   │
+                                        └───────────────────────┘
+```
+
+### Voting Thresholds
+
+| Decision type | Threshold | Who votes | Can be delegated? |
+|---|---|---|---|
+| Operational (within budget) | Secretariat discretion | Secretariat | N/A |
+| Working Group outputs | Simple majority (WG members) | Working Group | Yes, to WG lead |
+| Steering Committee routine | Simple majority (SC) | SC members | Yes, with notice |
+| Strategic decisions | Two-thirds supermajority | SC members | No |
+| New anchor partner admission | Two-thirds supermajority | SC members | No |
+| Partner expulsion | Three-quarters supermajority | SC members | No |
+| Mission or constitutional change | Three-quarters SC + Annual Assembly majority | SC + Assembly | No |
+| Budget approval (annual) | Two-thirds supermajority | SC members | No |
+
+Quorum for Steering Committee votes: at least two-thirds of seated members must be present or have submitted a written proxy. A vote cannot be called without five working days' notice to all members.
+
+### Conflict of Interest Handling
+
+A conflict of interest arises when a Steering Committee member's organisation stands to benefit materially from a coalition decision (e.g., a grant allocation that would flow to the member's organisation, a procurement decision in which the member's organisation is a potential supplier).
+
+**Protocol:**
+1. Any SC member with a potential conflict must declare it at the start of the relevant agenda item.
+2. The conflicted member withdraws from the debate and vote on that item.
+3. The declaration and withdrawal are recorded in the minutes.
+4. If a quorum cannot be achieved without the conflicted member, the vote is postponed to the next meeting or decided by written ballot of non-conflicted members.
+5. The Annual Assembly reviews all conflict-of-interest declarations from the prior year as part of the governance report.
+
+### Membership Fee Structure
+
+Membership fees serve two purposes: revenue diversification and governance legitimacy (members have skin in the game). Fees are graduated by organisation type and size, not by influence — a deliberate design choice to prevent large institutions from buying disproportionate governance power.
+
+| Tier | Member type | Annual fee | Governance rights |
+|---|---|---|---|
+| **Founding Anchor** | Organisations present at launch | €0 (founding period, years 1–2) | Steering Committee seat |
+| **Anchor Partner** | Organisations admitted after launch | €5,000–€15,000 (sliding scale by budget size) | Steering Committee seat |
+| **Institutional Associate** | Municipalities, public bodies, broadcasters | €2,000–€10,000 (sliding scale) | Working Group participation; Annual Assembly vote |
+| **Civil Society Associate** | Non-profits, academic institutions | €500–€2,000 (sliding scale) | Working Group participation; Annual Assembly vote |
+| **Community Instance** | Fediverse instances, informal groups | €0–€200 (voluntary contribution) | Annual Assembly participation; no formal vote |
+| **Sustaining Supporter** | Individuals | €50–€500 (voluntary) | Annual Assembly participation; newsletter |
+
+Fee waivers are available for organisations from lower-income countries or those with annual budgets below €100,000. The waiver process is administered by the Secretariat and reviewed annually by the Steering Committee.
+
+### Partner Engagement Principles
 
 1. **No extraction:** Partners contribute to governance, not just legitimacy. Every anchor partner has a seat at the table and a defined role.
-2. **Autonomy preservation:** Joining the coalition does not require surrendering existing brand, funding relationships, or technical choices.
+2. **Autonomy preservation:** Joining the coalition does not require surrendering existing brand, funding relationships, or technical choices. Partners may simultaneously participate in other coalitions or standards bodies.
 3. **Graduated commitment:** Initial engagement is a letter of intent or MoU; formal membership with governance rights follows after the coalition structure is ratified.
-
-## Governance sketch
-
-The coalition will operate under a **lightweight federated governance model** — appropriate given its subject matter. A proposed structure:
-
-- **Steering Committee:** One seat per anchor partner (max 9 seats). Decides on strategy, budget, and new member admissions.
-- **Secretariat:** A small team (1–2 FTE) responsible for coordination, grant administration, and communication. Hosted by an existing organisation in year one.
-- **Working Groups:** Technical, Policy, Funding — open to associate partners and community members.
-- **Annual Assembly:** Open to all community stakeholders; advisory role; ratifies major decisions.
-
-Governance documents (articles, MoU template, decision-making protocol) are listed in Appendix A as artefacts to be produced.
+4. **Public transparency:** All governance documents, meeting minutes (with a 30-day lag), annual reports, and audited accounts are published publicly.
+5. **Conflict management first:** Disputes are expected in a coalition this diverse. The Disputes Protocol is established before the coalition launches, not after a conflict arises.

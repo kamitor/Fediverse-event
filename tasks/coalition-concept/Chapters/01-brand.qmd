@@ -2,21 +2,195 @@
 
 ## Why naming and framing matter
 
-Funders, civil servants, and institutional partners make rapid judgements based on language. A coalition that speaks clearly about *what* it is building and *why* it matters for the public good will move faster through evaluation pipelines than one that leads with technical specifications. This chapter defines the linguistic and conceptual frame we will carry into every conversation.
+Funders, civil servants, and institutional partners make rapid judgements based on language. A coalition that speaks clearly about *what* it is building and *why* it matters for the public good will move faster through evaluation pipelines than one that leads with technical specifications. This chapter defines the linguistic and conceptual frame we will carry into every conversation — from a minister's office to a programme officer's inbox.
 
-## Candidate coalition names
+Naming a coalition is a political act. The words we choose determine which journalists cover us, which MEP takes a meeting, and whether a Dutch civil servant files us under "innovation" or "niche advocacy." Every candidate name has been stress-tested against the two hardest questions: "Why should taxpayers fund this?" and "Isn't this just for tech enthusiasts?"
 
-Five names are in play, each with a distinct emphasis. The shortlist will be validated with anchor partners before finalising.
+---
 
-| Name | Emphasis | Strengths | Risks |
-|---|---|---|---|
-| **Public Social Alliance** | Public good, social web | Immediately legible; mirrors "Public Broadcasting" | Could sound like a political party |
-| **Digital Commons Network** | Commons, shared infrastructure | Strong resonance with academic and FOSS communities | "Commons" is overused in grant writing |
-| **Open Fediverse Fund** | Funding mechanism | Clear about money and openness | Positions us as funders, not operators |
-| **Federated Public Infrastructure Consortium** | Infrastructure, consortium | Accurate and formal | Verbose; acronym (FPIC) is weak |
-| **European Social Web Coalition** | European identity | Maps to EU digital sovereignty agenda | Excludes non-European partners by default |
+## Candidate coalition names: political framing analysis
 
-**Working recommendation:** *Public Social Alliance* for public-facing identity; *Digital Commons Network* as a subtitle/descriptor for grant applications where "commons" framing is rewarded.
+Five names are in play. Each has been evaluated not only for resonance but for adversarial durability — how it holds up when a sceptic, a journalist, or a budget committee clerk pushes back.
+
+### 1. Public Social Alliance
+
+**Core emphasis:** Public good, the social web as shared civic infrastructure.
+
+**Strengths:** Immediately legible to a non-technical audience. Echoes the language of public broadcasting, public libraries, and public utilities — institutions that command broad democratic legitimacy in the Netherlands and across the EU. The word "alliance" signals plurality without implying top-down authority.
+
+**Risks:** Could be read as a political party name or a pressure group. Loses precision when compared to "Digital Commons Network" in grant contexts where commons framing is explicitly rewarded.
+
+| Audience | Likely reaction |
+|---|---|
+| **Dutch MP (Tweede Kamer)** | Positive. "Public" is safe ground across party lines. An SP or GroenLinks MP connects it to public services; a VVD MP reads "alliance" as a market-neutral coordination body. Low risk of partisan capture. |
+| **European Commissioner (DG CONNECT)** | Moderate. Not immediately legible as a tech project; may need one sentence of explanation. But the framing maps cleanly onto the Commission's own "public interest" language in the European Democracy Action Plan. |
+| **Newspaper journalist (NRC, de Volkskrant, Politico EU)** | High. This is an easy headline: *"Public Social Alliance wil alternatief bieden voor X."* No translation required. Works for both tech desk and politics desk. |
+
+**Adversarial test:** *"Isn't this just for nerds?"* — "Public" inoculates against this. You are not describing the technology; you are describing the constituency. **Survives.**
+
+**Adversarial test:** *"Why should taxpayers fund this?"* — The word "public" implicitly answers this: we fund public things. **Survives.**
+
+**Verdict: Recommended as primary public-facing name.**
+
+---
+
+### 2. Digital Commons Network
+
+**Core emphasis:** Infrastructure as a shared commons; network of maintainers.
+
+**Strengths:** Strong resonance in academic, FOSS, and European policy communities. The "commons" concept has a serious intellectual pedigree (Ostrom, Bollier) that lends analytical credibility. Works well in Horizon Europe applications and with funders like NLnet and Prototype Fund.
+
+**Risks:** "Commons" is overused in grant writing and risks sounding academic or vague to a politician unfamiliar with the concept. "Digital" is a decade old as a modifier.
+
+| Audience | Likely reaction |
+|---|---|
+| **Dutch MP** | Mixed. A PvdA or D66 MP will nod; a BBB or PVV MP will not understand why this needs a coalition and may be suspicious of the "network" framing. Requires explanation. |
+| **European Commissioner** | Strong. The Commission's own documents reference "data commons" and "digital public goods" repeatedly. DG CONNECT staff will recognise the register immediately. |
+| **Journalist** | Weak as a standalone. "Digital Commons Network" is a headline that needs a subtitle. The journalist will reach for their own framing — which may not be yours. |
+
+**Adversarial test:** *"Isn't this just for nerds?"* — Partially. "Commons" has an intellectual heft that can cut either way: serious or obscure. **Partial pass.**
+
+**Adversarial test:** *"Why should taxpayers fund this?"* — The commons framing provides a principled answer (we fund commons: roads, parks, public libraries), but requires articulation. **Passes with explanation.**
+
+**Verdict: Strong as a subtitle or secondary descriptor for grant applications; weaker as a public-facing name.**
+
+---
+
+### 3. Open Fediverse Fund
+
+**Core emphasis:** The Fediverse specifically; a funding mechanism.
+
+**Strengths:** Maximally honest about what we are doing and what we are working with. Useful for audiences already familiar with the Fediverse who want clarity about purpose.
+
+**Risks:** "Fediverse" is jargon. "Fund" positions the coalition as a grant-maker rather than a coalition of operators and advocates. This invites a different set of questions from funders (who will ask to see the fund's governance, investment thesis, and return metrics).
+
+| Audience | Likely reaction |
+|---|---|
+| **Dutch MP** | Confusion, then mild scepticism. "The Fediverse" requires explanation. "Fund" sounds like something that should be privately financed. |
+| **European Commissioner** | Interested but uncertain. EC staff are increasingly aware of ActivityPub and the Fediverse, but the "Fund" framing raises questions about who controls the money. |
+| **Journalist** | Will immediately ask: "How much money? Where does it come from? Who decides?" These are not bad questions, but they redirect the story away from your agenda. |
+
+**Adversarial test:** *"Isn't this just for nerds?"* — Yes, as named. The name itself confirms the concern. **Fails.**
+
+**Verdict: Useful as a project-level descriptor within the coalition, not as the coalition's name.**
+
+---
+
+### 4. Federated Public Infrastructure Consortium
+
+**Core emphasis:** Technical accuracy; formal institutional standing.
+
+**Strengths:** Leaves nothing to interpretation. Accurate, legally serious, and conveys institutional solidity. Appropriate for formal MoUs and legal filings.
+
+**Risks:** The acronym FPIC is phonetically weak. The name is a mouthful in every language. "Consortium" implies a procurement or research vehicle, not a values-driven coalition.
+
+| Audience | Likely reaction |
+|---|---|
+| **Dutch MP** | Eyes glaze over. This sounds like a European Commission tender document, not a public interest initiative. |
+| **European Commissioner** | Reads as serious but derivative. The EC already funds many consortia; this name does not distinguish. |
+| **Journalist** | Will not use it. Will abbreviate it in ways that may not be flattering. |
+
+**Adversarial test:** Both adversarial tests. **Fails both** — the name invites the nerd question and does not answer the taxpayer question.
+
+**Verdict: Reserve for legal entity name only, if a formal consortium structure is adopted.**
+
+---
+
+### 5. European Social Web Coalition
+
+**Core emphasis:** European identity; the social web as a concept.
+
+**Strengths:** "European" maps directly onto EU digital sovereignty discourse. "Social Web" is broader than "Fediverse" and more accessible. "Coalition" is politically neutral and collaborative-sounding.
+
+**Risks:** Excludes non-European partners by default, which may be counterproductive in a global open-standards context. The EC may find "European" presumptuous if the coalition is not formally recognised by EU institutions.
+
+| Audience | Likely reaction |
+|---|---|
+| **Dutch MP** | Positive. European framing resonates across the political spectrum when attached to digital sovereignty. |
+| **European Commissioner** | Cautiously positive, but will ask whether the coalition has formal EU representation. The word "European" raises expectations. |
+| **Journalist** | Works for EU policy correspondents; less compelling for national desks where "European" reads as Brussels-centric. |
+
+**Adversarial test:** *"Isn't this just for nerds?"* — "Social Web" partially defuses this. **Partial pass.**
+
+**Adversarial test:** *"Why should taxpayers fund this?"* — The European framing helps: European taxpayers fund European infrastructure. **Passes.**
+
+**Verdict: Strong fallback if the coalition secures formal EU institutional alignment. Premature as a launch name without that backing.**
+
+---
+
+## Naming recommendation
+
+**Primary name:** *Public Social Alliance*
+**Secondary descriptor (grant applications):** *Digital Commons Network*
+**Legal entity name:** To be determined by governance counsel; "Federated Public Infrastructure Consortium" or similar is appropriate for formal filings where clarity outweighs marketability.
+
+The two-name approach is deliberate. "Public Social Alliance" wins the dinner party conversation and the newspaper headline. "Digital Commons Network" wins the Horizon Europe review panel. Use each in its natural habitat.
+
+---
+
+## The narrative spine
+
+*This is the 2–3 sentence story someone tells at a dinner party when explaining what the coalition does. No jargon. No acronyms.*
+
+> "Social media is privately owned infrastructure — a few companies control the pipes through which we communicate, and they can change the rules at any moment. The Fediverse is a different approach: thousands of independent community servers, all speaking the same open language, so you can talk to anyone without being trapped inside any one company's walls. The Public Social Alliance exists to make sure that infrastructure is properly maintained, governed, and funded — the way we fund public broadcasting or public libraries."
+
+This spine should be memorised by every spokesperson. It answers "what is it?" (sentence 1), "what does the coalition work with?" (sentence 2), and "why does the coalition exist?" (sentence 3). It survives the dinner party test.
+
+---
+
+## Counter-narrative playbook
+
+These are the five objections you will hear most frequently from funders, politicians, and journalists. Each entry includes the objection in its bluntest form, the underlying concern it encodes, and the rebuttal.
+
+### Objection 1: "Isn't this just Mastodon?"
+
+**Underlying concern:** The funder suspects this is narrow, product-specific advocacy dressed up as infrastructure work.
+
+**Rebuttal:** Mastodon is one application — like Firefox is one browser. The Fediverse is the underlying infrastructure: thousands of servers running dozens of applications (Mastodon for text, Pixelfed for photos, PeerTube for video, Funkwhale for music) all communicating through a shared open standard called ActivityPub. We are not advocating for one product. We are maintaining the standard and the ecosystem that makes all of them interoperable — the way you maintain a road network rather than a single car manufacturer.
+
+**One-liner for a pressured moment:** "Mastodon is to the Fediverse what Gmail is to email — one product on shared infrastructure."
+
+---
+
+### Objection 2: "Why fund infrastructure when there are more urgent priorities?"
+
+**Underlying concern:** Opportunity cost — digital infrastructure feels abstract compared to housing, healthcare, or climate.
+
+**Rebuttal:** Infrastructure is not an abstract investment — it is the precondition for everything else. Democratic movements, journalism, crisis coordination, and community organising now happen on social platforms. When those platforms are privately owned and algorithmically optimised for engagement over truth, the infrastructure is actively working against democratic resilience. We learned with physical infrastructure that you cannot build public interest outcomes on private pipes. This is the same lesson, one decade late, for digital infrastructure.
+
+**One-liner:** "Letting private platforms own public discourse is like letting a private company own the postal system — you find out why that's a problem when they start reading your letters."
+
+---
+
+### Objection 3: "Isn't the internet already open?"
+
+**Underlying concern:** Confusion between the open protocols of the internet (TCP/IP, HTTP) and the walled-garden applications that run on top of them.
+
+**Rebuttal:** The internet's underlying protocols are open, but the social layer — where people actually spend their time and where public discourse happens — is dominated by closed, proprietary platforms. Facebook, X, Instagram, and TikTok are built on open internet protocols but do not themselves interoperate. You cannot follow a Facebook user from Instagram; you cannot take your audience with you when you leave. The Fediverse restores openness at the social layer: your identity and your connections belong to you, not to a platform. The DSA creates obligations around interoperability; the Fediverse is already the working implementation.
+
+**One-liner:** "The roads are public, but the shopping malls have replaced the town squares."
+
+---
+
+### Objection 4: "Who's actually using this beyond tech enthusiasts?"
+
+**Underlying concern:** Adoption risk — the funder does not want to fund something that remains a niche product.
+
+**Rebuttal:** Adoption is growing rapidly beyond the early adopter community. The Fediverse hosts over 10 million registered accounts across more than 20,000 servers. Public institutions are already adopting it: the German federal government runs its own Mastodon instance; cities including Amsterdam (to verify), Cologne, and Paris have explored or launched public instances; public broadcasters including the BBC, NPR (to verify), and ZDF have ActivityPub presences. The European Commission's own social media accounts have experimented with Fediverse presence (to verify). Adoption is no longer the question; sustainability and governance are.
+
+**Supporting data to have ready:** Current Fediverse instance counts and account numbers from fediverse.observer or the-federation.info; list of institutional adopters.
+
+---
+
+### Objection 5: "How is this different from what the EU already funds?"
+
+**Underlying concern:** Duplication — the funder worries about funding parallel structures to existing EU programmes (NGI, Horizon Europe, CEF Digital).
+
+**Rebuttal:** Existing EU programmes fund individual technical projects — specific software components, protocol research, single-organisation deployments. No existing EU programme funds the *governance layer*: the coalition infrastructure, the maintenance agreements, the standards participation, the policy advocacy, and the community capacity building that turns funded software into durable public infrastructure. NGI funds code; we are building the institution that makes code maintainable. The analogy is the difference between funding individual open-source contributors and funding the Apache Software Foundation.
+
+**One-liner:** "The EU funds bricks. We are building the building."
+
+---
 
 ## Brand pillars
 
@@ -33,7 +207,7 @@ Users own their data and choose their community. Operators are accountable to th
 *Funder language:* "digital sovereignty", "data governance", "citizen empowerment", "trustworthy AI/internet"
 
 ### 3. Sustainability
-The current funding model (volunteer labour, donations) does not scale to the infrastructure demands of millions of users. A coalition model pools resources and creates a durable maintenance pathway.
+The current funding model — volunteer labour, donations — does not scale to the infrastructure demands of millions of users. A coalition model pools resources and creates a durable maintenance pathway.
 
 *Funder language:* "long-term sustainability", "resilient infrastructure", "systemic change", "capacity building"
 
@@ -42,15 +216,69 @@ Decisions about infrastructure are made by communities through transparent, part
 
 *Funder language:* "digital democracy", "participatory governance", "civic technology", "public interest technology"
 
+---
+
 ## Messaging matrix
 
 Different funders weight these pillars differently. Use this matrix to tailor communications.
 
 | Audience | Lead pillar | Key message | Proof point |
 |---|---|---|---|
-| European Commission (NGI, DSA) | Sovereignty + Openness | "We are building the public infrastructure the DSA assumes but doesn't fund" | ActivityPub is a W3C standard; the Fediverse already hosts 10M+ accounts |
-| NLnet / Foundations | Openness + Sustainability | "We are maintaining the commons that open-source grants helped build" | Reference to NLnet-funded projects already running on AP |
+| European Commission (NGI, DSA) | Sovereignty + Openness | "We are building the governance layer the DSA assumes but doesn't fund" | ActivityPub is a W3C standard; the Fediverse already hosts 10M+ accounts |
+| NLnet / Foundations | Openness + Sustainability | "We are maintaining the commons that open-source grants helped build" | NLnet-funded projects already running on ActivityPub |
 | Municipalities / public sector | Sovereignty + Democracy | "Local government deserves a social channel it controls" | Mastodon instances run by cities in Germany, France, the Netherlands |
 | Public broadcasters | Democracy + Openness | "The public sphere deserves public infrastructure" | BBC, NPR, and ZDF experiments with ActivityPub |
 | Academic labs | All four | "The Fediverse is a living laboratory for digital democracy research" | Academic publications on federated social networks |
 | Corporate sponsors (B-corp, CSR) | Sustainability + Openness | "Support the infrastructure your company's communities depend on" | GitHub star counts, download stats for Mastodon, Pixelfed, PeerTube |
+
+---
+
+## Press and media strategy
+
+### Who covers this beat
+
+**Netherlands:**
+
+- *NRC Handelsblad* — Tech & Society desk. Joost de Vries and Maurits Martijn (to verify current assignments) have covered platform power and data rights extensively. The angle that works: Dutch institutional adoption, GDPR compliance, digital sovereignty as a national interest story.
+- *de Volkskrant* — Occasional longform on tech policy. Better for a human-interest angle: a community organisation, a local journalist, or a municipality that switched away from commercial platforms.
+- *Follow the Money* — Strong track record on platform accountability and dark money in tech. The angle that works: public funding of commercial platforms vs. the alternative.
+- *Tweakers* (tech publication) — Detailed technical coverage, well-read by decision-makers in IT procurement. Useful for reaching civil servants and municipal IT managers.
+- *BNR Nieuwsradio* — Business radio; receptive to digital economy and sovereignty framing.
+
+**European / international:**
+
+- *Politico EU* — Covers the intersection of tech and EU policy. MEP angles, Commission consultation responses, DSA implementation stories. Journalists covering tech policy include Laura Kayali and Clothilde Goujard (to verify). The angle that works: the coalition as a concrete implementation of EU digital sovereignty goals.
+- *The Guardian* (UK/EU edition) — Receptive to platform power, open alternatives, civil society angles. British readers no longer on EU-focused platforms is a potential angle.
+- *Euractiv* — Deep EU policy coverage, especially DG CONNECT and digital single market. Useful for Brussels insiders; less useful for broad public reach.
+- *Wired* (EU edition) — Tech culture and policy synthesis. Best for launch moments and partnership announcements.
+- *El País* Tecnología, *Le Monde* Pixels — For building a genuinely pan-European story beyond NL/Brussels.
+
+**Specialist:**
+
+- *Platformer* (Casey Newton, US-based but widely read in EU policy circles) — Covers platform governance in depth. A coalition story would be interesting as a counterpoint to X/Meta coverage.
+
+### Story angles that work
+
+1. **The sovereignty angle** (best for NRC, Politico EU): "Dutch [or European] institutions are building an alternative to American social media — here's what it looks like." Time this to a policy announcement (DSA implementation report, a Commission consultation, a Tweede Kamer debate on digital sovereignty).
+
+2. **The comparison angle** (best for de Volkskrant, The Guardian): Contrast with what happened to communities on platforms that changed their rules (Twitter/X's API restrictions, Reddit's API changes, Meta's content moderation decisions). "There is another way."
+
+3. **The public money angle** (best for Follow the Money, Euractiv): "Governments spend millions advertising on platforms they don't control. Here's a coalition building infrastructure they do." This angle requires a concrete public sector partner — municipality or broadcaster.
+
+4. **The governance angle** (best for Wired, academic press): The Fediverse as a case study in post-platform internet governance. Position coalition leaders as experts on what comes after surveillance capitalism.
+
+5. **The scale angle** (useful when numbers justify it): When the coalition reaches significant membership or funding milestones, the numbers-based story becomes available. "The coalition now represents X organisations across Y countries."
+
+### Timing press moments
+
+Press coverage should be sequenced to amplify, not precede, substantive milestones. The following calendar coordinates press moments with the outreach and political timeline in Chapter 5.
+
+| Moment | Target outlets | Story hook |
+|---|---|---|
+| Coalition launch (with 3+ anchor partners signed) | NRC, de Volkskrant, Politico EU | "Coalition forms to build public alternative to commercial social media" |
+| First grant awarded | Tweakers, Euractiv, funder's own channels | Infrastructure credibility; show the money is real |
+| First public sector partner confirmed | NRC, BNR, local press for that municipality | "City of X joins coalition" — the human-scale story |
+| EP committee hearing on DSA/interoperability (see Ch. 5) | Politico EU, Euractiv | Position coalition spokespeople as expert witnesses or commentators |
+| One-year impact report | All of the above | Evidence of delivery; pitch to foundations for renewal |
+
+**Rule:** Never issue a press release on a Friday afternoon or in August. Dutch and EU policy journalists follow the parliamentary calendar closely. Coordinate with the Tweede Kamer and EP session schedules in Chapter 5.
