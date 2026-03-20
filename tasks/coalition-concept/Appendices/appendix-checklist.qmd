@@ -1,0 +1,41 @@
+# Appendix A — Full Proposal Artefacts Checklist {-}
+
+The following artefacts are required to move from this brief to a complete, submission-ready funding proposal. Items are grouped by the stage at which they are needed.
+
+## Stage 1 — Coalition formation (months 1–2)
+
+- [ ] **Letter of intent template** — one-page document for anchor partners to sign, committing to steering committee participation.
+- [ ] **MoU (Memorandum of Understanding)** — lightweight governance agreement between founding partners, covering: decision-making, IP, communications, exit provisions.
+- [ ] **Legal entity confirmation** — identify which existing organisation will host the secretariat in year 1, or determine whether a new legal entity (foundation/stichting) is needed.
+- [ ] **Partner contact list with warm introduction mapping** — who knows whom at target funders.
+
+## Stage 2 — Funder outreach (months 2–4)
+
+- [ ] **2-page executive summary** — for leaving behind after meetings; covers problem, solution, coalition, ask.
+- [ ] **Pitch deck (20 slides max)** — built from the outline in Chapter 3.
+- [ ] **One-paragraph funder-specific inserts** — tailored "why this matters to you" paragraphs for each Tier 1 and Tier 2 funder.
+- [ ] **Budget template (Excel/ODS)** — itemised 3-year budget matching the line items in Chapter 3, ready to be adapted per funder's format requirements.
+
+## Stage 3 — Full application (months 3–6)
+
+- [ ] **Theory of change diagram** — visual one-pager linking activities → outputs → outcomes → impact.
+- [ ] **Impact measurement framework** — defines what metrics will be collected, how, and by whom.
+- [ ] **Risk register** — top 5–8 risks with likelihood, impact, and mitigation plans.
+- [ ] **Partner letters of support** — on official letterhead from anchor partners; each 1 page, specific about role and in-kind contribution.
+- [ ] **CVs / organisational profiles** — for all lead applicants; typically 2-page bios + 1-page org description.
+- [ ] **Previous grant reporting samples** — for funders who ask for track record evidence.
+- [ ] **Legal & compliance documents** — organisational registration, audited accounts (or equivalent for the hosting org), GDPR/data handling statement.
+
+## Stage 4 — Technical credibility (months 4–6)
+
+- [ ] **Technical architecture document** — one-pager describing the infrastructure being maintained/built; audience is non-technical programme officers.
+- [ ] **Current deployment data** — instance counts, active user numbers, uptime statistics for coalition-supported nodes.
+- [ ] **Security & moderation policy brief** — explains how the coalition handles content policy, CSAM, hate speech — a common funder concern.
+
+## Stage 5 — Governance readiness
+
+- [ ] **Draft articles of association** (if new legal entity) or hosting agreement (if using existing org).
+- [ ] **Decision-making protocol** — how the steering committee votes, quorum rules, dispute resolution.
+- [ ] **Financial management policy** — procurement thresholds, expense authorisation, audit process.
+- [ ] **Conflict of interest policy** — for steering committee members.
+- [ ] **Open access / open data policy** — many public funders require this; align with Open Science principles.

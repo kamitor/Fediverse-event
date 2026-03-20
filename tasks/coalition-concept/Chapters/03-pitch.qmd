@@ -1,0 +1,110 @@
+# Pitch Deck Outline
+
+This chapter provides the narrative structure for a presentation to funders. Each section maps to a slide or slide group. Copy this structure into your presentation tool of choice; the prose here is speaker-note level detail.
+
+## Slide 1 — Hook
+
+> "Twitter/X is owned by one person. Facebook is optimised for engagement, not truth. TikTok is a national security debate. Meanwhile, 10 million people are quietly building something different."
+
+One image: a map of Fediverse nodes across Europe.
+
+---
+
+## Section 1 — The Problem (3–4 slides)
+
+### 1a. The platform crisis
+- Three platforms control the global public conversation.
+- Their incentive structures are structurally misaligned with public interest: engagement over accuracy, growth over wellbeing, extraction over sustainability.
+- The DSA creates obligations but not alternatives. Regulation without infrastructure is incomplete.
+
+### 1b. The infrastructure gap
+- The Fediverse runs on volunteer labour and small donations.
+- Server costs, security maintenance, moderation tooling, and protocol development are chronically underfunded.
+- One burned-out admin shutting down a large instance can displace tens of thousands of users overnight.
+- There is no equivalent of the "internet infrastructure" investment that maintains DNS, TLS certificate authorities, or BGP routing — functions so critical that they have attracted both public and private investment.
+
+### 1c. The governance gap
+- No entity currently speaks for the Fediverse as a whole.
+- Protocol development happens in the open but without coordinated resourcing.
+- Public institutions (municipalities, broadcasters, universities) that want to deploy Fediverse infrastructure have no single point of entry, no SLA, no compliance guidance.
+
+---
+
+## Section 2 — The Solution (2–3 slides)
+
+### 2a. What the Fediverse already is
+- 10M+ active accounts across 20,000+ servers.
+- ActivityPub is a W3C standard — the same standards body behind HTML and CSS.
+- Growing institutional adoption: Deutsche Welle, NPR, the EU itself experimented with Mastodon.
+- FOSS ecosystem: Mastodon, Pixelfed, PeerTube, Peertube, Lemmy, Misskey — each solving a different use case.
+
+### 2b. What we are building
+The **[Coalition Name]** is the coordinating body the Fediverse needs:
+
+- A shared voice for the Fediverse in policy and funding arenas.
+- A maintenance fund that pools resources for critical infrastructure.
+- A governance framework that institutional partners can trust.
+- A research and development agenda driven by public interest, not profit.
+
+### 2c. Why now
+- The DSA is in force and regulators are actively looking for alternatives to demonstrate.
+- The NGI programme is expanding with dedicated funding for public digital infrastructure.
+- Public disillusionment with commercial platforms is at an all-time high.
+- The technical community is ready — what is missing is coordination and capital.
+
+---
+
+## Section 3 — Coalition Model (2 slides)
+
+### 3a. Who we are
+- Anchor partners: [list from Chapter 2]
+- Three working groups: Technical, Policy, Funding.
+- Annual open assembly for community participation.
+
+### 3b. How decisions get made
+- Steering Committee: one seat per anchor partner.
+- Transparent budgeting, published annually.
+- No single organisation holds veto power.
+
+---
+
+## Section 4 — Funding Ask (2 slides)
+
+### 4a. Budget summary
+
+| Line | Year 1 | Year 2 | Year 3 | Total |
+|---|---|---|---|---|
+| Secretariat (1.5 FTE) | €120k | €130k | €130k | €380k |
+| Infrastructure maintenance fund | €200k | €250k | €300k | €750k |
+| Protocol & tooling development | €150k | €150k | €100k | €400k |
+| Policy & research | €80k | €100k | €80k | €260k |
+| Communications & community | €50k | €60k | €60k | €170k |
+| **Total** | **€600k** | **€690k** | **€670k** | **€1.96M** |
+
+### 4b. Revenue model (years 2–3)
+- Membership fees from institutional partners (municipalities, broadcasters): €5–20k/year per partner.
+- Public grants (NGI, DFF, NWO): project-specific.
+- Service contracts (SLA, compliance support) for public sector deployments.
+- Goal: 40% self-sustaining by end of year 3.
+
+---
+
+## Section 5 — Impact (2 slides)
+
+### 5a. Quantitative targets (3-year)
+
+| Metric | Target |
+|---|---|
+| Active Fediverse accounts | 25M (from 10M) |
+| Institutional deployments supported | 20+ |
+| Infrastructure uptime (coalition-supported nodes) | 99.5% |
+| Policy submissions / consultations | 10+ |
+| FOSS contributions funded | 50+ |
+
+### 5b. Public value narrative
+The Fediverse coalition is not building a product — it is maintaining a commons. The impact is measured not in users acquired but in:
+
+- **Digital resilience:** Communities that cannot be deplatformed.
+- **Civic infrastructure:** Public institutions with a social channel they control.
+- **Democratic discourse:** Conversation spaces governed by communities, not algorithms.
+- **European sovereignty:** Infrastructure that keeps European social data in European hands.

@@ -1,0 +1,56 @@
+# Brand & Coalition Identity
+
+## Why naming and framing matter
+
+Funders, civil servants, and institutional partners make rapid judgements based on language. A coalition that speaks clearly about *what* it is building and *why* it matters for the public good will move faster through evaluation pipelines than one that leads with technical specifications. This chapter defines the linguistic and conceptual frame we will carry into every conversation.
+
+## Candidate coalition names
+
+Five names are in play, each with a distinct emphasis. The shortlist will be validated with anchor partners before finalising.
+
+| Name | Emphasis | Strengths | Risks |
+|---|---|---|---|
+| **Public Social Alliance** | Public good, social web | Immediately legible; mirrors "Public Broadcasting" | Could sound like a political party |
+| **Digital Commons Network** | Commons, shared infrastructure | Strong resonance with academic and FOSS communities | "Commons" is overused in grant writing |
+| **Open Fediverse Fund** | Funding mechanism | Clear about money and openness | Positions us as funders, not operators |
+| **Federated Public Infrastructure Consortium** | Infrastructure, consortium | Accurate and formal | Verbose; acronym (FPIC) is weak |
+| **European Social Web Coalition** | European identity | Maps to EU digital sovereignty agenda | Excludes non-European partners by default |
+
+**Working recommendation:** *Public Social Alliance* for public-facing identity; *Digital Commons Network* as a subtitle/descriptor for grant applications where "commons" framing is rewarded.
+
+## Brand pillars
+
+These four pillars appear in every piece of communication, adapted to the audience's vocabulary.
+
+### 1. Openness
+The Fediverse is built on open standards (ActivityPub, W3C). No vendor controls the protocol. Anyone can run a node. This is the antithesis of platform lock-in and a technical guarantee of long-term public accessibility.
+
+*Funder language:* "open standards", "interoperability", "non-proprietary", "vendor-neutral"
+
+### 2. Digital Sovereignty
+Users own their data and choose their community. Operators are accountable to their members, not to shareholders. This enables genuine self-determination for individuals, communities, and nations.
+
+*Funder language:* "digital sovereignty", "data governance", "citizen empowerment", "trustworthy AI/internet"
+
+### 3. Sustainability
+The current funding model (volunteer labour, donations) does not scale to the infrastructure demands of millions of users. A coalition model pools resources and creates a durable maintenance pathway.
+
+*Funder language:* "long-term sustainability", "resilient infrastructure", "systemic change", "capacity building"
+
+### 4. Democratic Governance
+Decisions about infrastructure are made by communities through transparent, participatory processes — not by boardrooms or algorithms. This is a proof-of-concept for digital democracy at scale.
+
+*Funder language:* "digital democracy", "participatory governance", "civic technology", "public interest technology"
+
+## Messaging matrix
+
+Different funders weight these pillars differently. Use this matrix to tailor communications.
+
+| Audience | Lead pillar | Key message | Proof point |
+|---|---|---|---|
+| European Commission (NGI, DSA) | Sovereignty + Openness | "We are building the public infrastructure the DSA assumes but doesn't fund" | ActivityPub is a W3C standard; the Fediverse already hosts 10M+ accounts |
+| NLnet / Foundations | Openness + Sustainability | "We are maintaining the commons that open-source grants helped build" | Reference to NLnet-funded projects already running on AP |
+| Municipalities / public sector | Sovereignty + Democracy | "Local government deserves a social channel it controls" | Mastodon instances run by cities in Germany, France, the Netherlands |
+| Public broadcasters | Democracy + Openness | "The public sphere deserves public infrastructure" | BBC, NPR, and ZDF experiments with ActivityPub |
+| Academic labs | All four | "The Fediverse is a living laboratory for digital democracy research" | Academic publications on federated social networks |
+| Corporate sponsors (B-corp, CSR) | Sustainability + Openness | "Support the infrastructure your company's communities depend on" | GitHub star counts, download stats for Mastodon, Pixelfed, PeerTube |

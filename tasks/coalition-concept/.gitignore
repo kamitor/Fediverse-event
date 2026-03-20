@@ -1,0 +1,13 @@
+_output/
+_template/
+.quarto/
+*_cache/
+*.aux
+*.log
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+
+/.quarto/
+**/*.quarto_ipynb

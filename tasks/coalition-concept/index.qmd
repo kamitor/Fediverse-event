@@ -1,0 +1,18 @@
+# Executive Summary {-}
+
+The open, federated social web — known as the Fediverse — hosts millions of users across thousands of independently operated servers running on the ActivityPub protocol. Yet this infrastructure remains fragile: underfunded, under-governed, and largely invisible to the philanthropic and public-sector funders who are actively searching for exactly what it represents: trustworthy, democratic, non-commercial public digital infrastructure.
+
+This brief makes the case for forming a **Fediverse Coalition** — a structured alliance of infrastructure operators, public-interest technology organisations, civic institutions, and academic partners — to collectively secure the Fediverse's long-term sustainability and position it as a model for public digital goods at the European and global level.
+
+## What this brief contains
+
+- **Chapter 1 — Brand & Identity:** Candidate coalition names, brand pillars, and a messaging matrix tailored to different funder audiences.
+- **Chapter 2 — Partners:** A shortlist of anchor organisations with roles, rationale, and engagement status.
+- **Chapter 3 — Pitch Deck Outline:** A structured narrative — problem, solution, coalition model, funding ask, impact — ready to be turned into slides.
+- **Chapter 4 — Funding Landscape:** A scan of relevant European and international programmes, their buzzwords, and fit scores.
+- **Chapter 5 — Outreach Plan:** Templates, timeline, and approach for approaching funders in sequence.
+- **Appendix A — Artefacts Checklist:** Everything needed for a full funding proposal.
+
+## The ask in one sentence
+
+We seek **€1.2–2.5 million over three years** to establish a coalition secretariat, fund infrastructure maintenance, and commission the research and governance work that makes the Fediverse ready for public and institutional adoption at scale.

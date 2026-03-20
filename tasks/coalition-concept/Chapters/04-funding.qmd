@@ -1,0 +1,63 @@
+# Funding Landscape
+
+## Framing for funders
+
+The single most powerful framing shift available to the coalition is this: **the Fediverse is not a niche FOSS project; it is public digital infrastructure.**
+
+Roads, libraries, and public broadcasters are funded by governments and foundations not because they generate profit but because they create preconditions for democratic society. The Fediverse is the emerging equivalent for social communication infrastructure. Funders who work on digital democracy, trustworthy technology, or media pluralism are already looking for exactly this — they simply may not yet know the Fediverse by name.
+
+The vocabulary to use:
+
+- "Public digital infrastructure" / "digital public goods"
+- "Trustworthy internet" / "safe and humane digital spaces"
+- "Digital sovereignty" / "European digital autonomy"
+- "Open standards" / "protocol-based interoperability"
+- "Civic technology" / "public interest technology"
+- "Media pluralism" / "independent media infrastructure"
+- "Participatory governance" / "democratic digital spaces"
+
+## Programme landscape
+
+| Programme | Funder | Geography | Buzzwords | Grant range | Deadline cycle | Coalition fit |
+|---|---|---|---|---|---|---|
+| **NGI Zero Commons Fund** | NLnet (EC-funded) | EU/global | trustworthy internet, open standards, privacy | €5k–€50k per project | Rolling | High — for protocol & tooling work |
+| **NGI Search** | NLnet | EU | open search, discovery, indexing | €5k–€50k | Rolling | Medium — for content discovery tools |
+| **Prototype Fund** | BMBF / Open Knowledge Foundation | Germany | civic tech, digital infrastructure, FOSS | €47k per project | 2x/year | High — for German instance operators |
+| **Digital Futures for Society** | Wellcome / Luminate | UK/EU | digital democracy, civic tech, mis/disinformation | £100k–£500k | Annual | High — for governance & research arm |
+| **Digital Defenders Partnership** | Hivos | Global | digital safety, at-risk communities | €20k–€100k | Rolling | Medium — for moderation & safety tooling |
+| **Stiftung Mercator** | Mercator | Germany/EU | Europe, openness, digital transformation | €100k–€1M | Annual invitation | High — for secretariat and strategy |
+| **Robert Bosch Stiftung** | Bosch Foundation | Germany/EU | democracy, civil society, digital | €50k–€500k | Varies | Medium–High |
+| **Gemeente-fondsen (NL)** | Dutch municipalities | Netherlands | digital sovereignty, local services, accessibility | €10k–€200k | Varies | High for NL pilots |
+| **NWO / SIDN Fund** | SIDN / Dutch Research Council | Netherlands | internet resilience, NL digital infrastructure | €10k–€250k | 2x/year | High — SIDN specifically funds internet infrastructure |
+| **European Commission (DIGITAL)** | EC DG CONNECT | EU | digital sovereignty, public sector innovation, DSA | €500k–€5M | Annual calls | High for consortium proposals |
+| **Open Society Foundations** | OSF | Global | democracy, civic space, information integrity | €100k–€1M | By invitation | High — governance & policy framing |
+| **Ford Foundation** | Ford | Global | digital equity, internet freedom | $100k–$1M | LOI cycle | Medium — stronger for US-facing work |
+
+## Priority tiers
+
+**Tier 1 — Apply immediately (rolling or near-term deadlines)**
+
+1. **NLnet NGI Zero** — ideal for technical sub-projects (moderation tooling, protocol extensions, accessibility). Multiple small grants across partner organisations is a viable strategy.
+2. **SIDN Fund** — direct fit for Dutch internet infrastructure angle; relationship likely already exists through ProcoliX/Waag.
+3. **Prototype Fund** — good for German partners and for funding individual developer contributions.
+
+**Tier 2 — Apply with full proposal (6–12 months)**
+
+4. **Stiftung Mercator** — target for secretariat funding; requires a strong European identity narrative.
+5. **Digital Futures for Society** — requires a governance/research framing; pair with university partner.
+6. **EC DIGITAL programme** — highest ceiling but requires a full consortium proposal; begin relationship-building now.
+
+**Tier 3 — Warm and wait**
+
+7. OSF, Ford — apply once the coalition has 12 months of documented activity and impact.
+8. Municipal funds — approach individual municipalities after pilot deployments are live.
+
+## A note on stacking grants
+
+The coalition's funding strategy should **stack** rather than compete:
+
+- NLnet funds *specific technical work* → feeds into the coalition's technical working group.
+- SIDN/Prototype Fund covers *individual developer contributions* → reduces secretariat costs.
+- Mercator/Luminate funds *the coalition's coordination layer* → the governance, communications, and policy work that makes the sum greater than its parts.
+
+This means different coalition members can apply to different programmes simultaneously without cannibalising each other's applications.

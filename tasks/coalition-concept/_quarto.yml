@@ -1,0 +1,49 @@
+project:
+  type: book
+  output-dir: _output
+
+book:
+  title: "Building a Fediverse Coalition: Identity, Partners & Funding Strategy"
+  date: "March 2026"
+  author:
+    name: Fediverse Event Working Group
+  downloads: [pdf]
+  abstract: |
+    This brief defines a compelling coalition identity for Fediverse infrastructure as essential public digital goods. It covers brand pillars, coalition naming, anchor partners, a pitch deck outline, a funding landscape scan, and an outreach plan — providing everything needed to approach major philanthropic and public funders with a coherent, well-evidenced proposal.
+  chapters:
+    - index.qmd
+    - Chapters/01-brand.qmd
+    - Chapters/02-partners.qmd
+    - Chapters/03-pitch.qmd
+    - Chapters/04-funding.qmd
+    - Chapters/05-outreach.qmd
+    - references.qmd
+  appendices:
+    - Appendices/appendix-checklist.qmd
+
+thesis:
+  supervisor:
+    name: ""
+  degree-name: ""
+  university: ""
+  department: ""
+  group: ""
+  faculty: ""
+  declaration: "Frontmatter/declaration.tex"
+  acknowledgements: "Frontmatter/acknowledgements.tex"
+  abbreviations: "Frontmatter/abbreviations.tex"
+  symbols: "Frontmatter/symbols.tex"
+  dedication: "Frontmatter/dedication.tex"
+  logo: images/logo.png
+  logo-height: "2cm"
+
+bibliography: [references.bib]
+
+execute:
+  echo: false
+
+format:
+  quarto-thesis-pdf:
+    urlcolor: "0 0.3 0.6"
+    toclinkcolor: black
+    toc-depth: 2

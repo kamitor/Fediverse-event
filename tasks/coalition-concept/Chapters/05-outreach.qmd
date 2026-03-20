@@ -1,0 +1,95 @@
+# Outreach Plan
+
+## Principles
+
+1. **Relationships before applications.** Most programme officers respond better to a warm introduction than a cold proposal. Invest in a coffee conversation before submitting a PDF.
+2. **Tailor, don't template.** Each funder has a theory of change. Mirror their language back to them.
+3. **Show, don't just tell.** Where possible, point to existing deployments and impact data rather than projections.
+4. **Sequence deliberately.** Early small wins (NLnet, SIDN) give you a track record that makes Tier 1 and Tier 2 applications stronger.
+
+---
+
+## Email/letter templates
+
+### Template A — First contact with a foundation programme officer
+
+> **Subject:** Brief conversation about Fediverse public infrastructure? — [Your Name], [Organisation]
+>
+> Dear [Name],
+>
+> I'm writing because [Foundation]'s work on [digital democracy / trustworthy internet / public interest technology] maps closely to something we're building, and I'd value 20 minutes of your perspective.
+>
+> The short version: a coalition of European organisations — including Waag, ProcoliX, and FediVariety — is working to place the Fediverse (the open, federated social web running on the ActivityPub W3C standard) on a sustainable institutional footing. We believe it represents a concrete, working model of public digital infrastructure: community-governed, standards-based, and free from commercial extraction.
+>
+> I'm not writing to make an ask yet — I'd genuinely like to understand whether this fits within [Foundation]'s current priorities and, if so, how you'd recommend we position ourselves for a conversation.
+>
+> Would a short call in [Month] work?
+>
+> With thanks,
+> [Your name]
+
+### Template B — Partner invitation letter (for anchor organisations)
+
+> Dear [Name],
+>
+> We are forming a coalition to ensure the long-term sustainability and institutional legitimacy of the Fediverse — the open, federated social web.
+>
+> [Your organisation] was one of the first names that came up in our conversations about who should be at the founding table. Your work in [area] makes you a natural fit for the [Technical / Policy / Governance] working group.
+>
+> Concretely, we are asking founding partners to:
+> - Sign a letter of intent (template attached) committing to participate in the steering committee;
+> - Contribute one person-day per month to working group activities in the first year;
+> - Co-sign the initial funder outreach letter.
+>
+> In return, you will have a formal seat in coalition governance, visibility in all external communications, and early access to the shared infrastructure maintenance fund.
+>
+> I would love to discuss this with you. Could we schedule a call this month?
+
+### Template C — Public sector / municipality approach
+
+> Dear [Name / Title],
+>
+> Municipalities across Europe — including [examples: Cologne, Amsterdam, Paris] — are exploring how to give residents and staff a social communication channel that is not dependent on commercial platforms subject to foreign ownership, algorithmic manipulation, or sudden policy changes.
+>
+> The Fediverse provides a proven, standards-based solution. Instances can be operated by the municipality itself or contracted to a trusted local provider, with full data sovereignty and compliance with GDPR and the DSA.
+>
+> We are establishing a European coalition to support exactly this kind of institutional adoption: providing technical guidance, governance templates, and a community of practice for public sector operators.
+>
+> We would welcome [Municipality]'s participation as a founding public sector partner. I would be glad to present our proposal at your convenience.
+
+---
+
+## Six-month outreach timeline
+
+| Month | Action | Owner (TBD) | Goal |
+|---|---|---|---|
+| 1 | Map existing relationships to Tier 1 funders | Secretariat | Identify warm introductions |
+| 1 | Draft and circulate anchor partner MoU | Legal/governance | 3–4 signed letters of intent |
+| 2 | Coffee meetings with NLnet and SIDN contacts | Waag / ProcoliX | Qualify fit; get feedback on framing |
+| 2 | Apply to NLnet NGI Zero for first technical sub-project | Technical lead | First grant application submitted |
+| 3 | Host a coalition introduction webinar (open) | Secretariat | Build community awareness; recruit associate partners |
+| 3 | Submit Expression of Interest to SIDN Fund | NL partner | Tier 1 application in pipeline |
+| 4 | Approach Stiftung Mercator / Luminate with 2-pager | Secretariat | Begin Tier 2 relationship |
+| 4 | Approach 2–3 municipal governments with Template C | Policy WG | Identify first public sector pilot |
+| 5 | Submit full Prototype Fund application (if German partner confirmed) | German partner | Tier 1 application |
+| 6 | Review, adjust framing based on funder feedback | All | Refine messaging for Tier 2 round |
+
+---
+
+## Decision tree: parallel vs. sequential
+
+```
+Start here
+│
+├── Do you have a warm introduction to the programme officer?
+│   ├── YES → Apply in parallel with other Tier 1 funders.
+│   └── NO  → Send Template A first. Wait for reply before submitting.
+│
+├── Is the grant for specific technical work?
+│   ├── YES → NLnet, Prototype Fund. Apply immediately, multiple in parallel.
+│   └── NO  → Sequence: SIDN (3 months) → Mercator/Luminate (6–9 months) → EC (12+ months)
+│
+└── Is a municipality or broadcaster involved as a partner?
+    ├── YES → Use their institutional letterhead for Template C. Opens public sector funder doors.
+    └── NO  → Focus on foundation route first; add public sector as evidence of adoption later.
+```

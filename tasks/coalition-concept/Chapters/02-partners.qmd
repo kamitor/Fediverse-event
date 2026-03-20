@@ -1,0 +1,36 @@
+# Anchor Partners
+
+## Rationale for a coalition model
+
+A coalition adds credibility that a single organisation cannot. Funders evaluating proposals ask: "Who else believes in this?" A strong anchor partner list signals sector-wide consensus, reduces perceived risk, and opens doors to programme officers who recognise partner names.
+
+The partners listed here are **anchor organisations** — founding members or early signatories who shape the coalition's governance and lend their reputation to its launch. A second tier of **associate partners** (service providers, research users, community instances) will be recruited once the anchor coalition is stable.
+
+## Anchor partner shortlist
+
+| Organisation | Type | Country | Why relevant | Proposed role | Contact status |
+|---|---|---|---|---|---|
+| **FediVariety** | Infrastructure operator | NL | Operates diverse Fediverse services; deep technical credibility | Technical advisory, instance hosting | To be approached |
+| **Waag** | Public interest tech | NL | Long track record in civic tech, open hardware, EU projects | Programme leadership, EU liaison | Existing relationship |
+| **ProcoliX** | Hosting co-operative | NL | Member-owned infrastructure; proof of sustainable co-op model | Infrastructure backbone, governance model | To be approached |
+| **Gemeente Amsterdam / other municipalities** | Public sector | NL/EU | Political legitimacy; demonstrates public sector adoption | Anchor funder, pilot deployment | TBD — requires political mapping |
+| **NPO / public broadcaster** | Media | NL | Institutional reach; editorial independence arguments | Content partner, public communication | To be approached |
+| **University partner (TBD)** | Academic | EU | Research credibility; access to Horizon Europe | Research arm, impact evaluation | TBD |
+| **FSFE (Free Software Foundation Europe)** | Advocacy CSO | EU | Policy expertise; established EU network | Policy advisory | To be approached |
+
+## Partner engagement principles
+
+1. **No extraction:** Partners contribute to governance, not just legitimacy. Every anchor partner has a seat at the table and a defined role.
+2. **Autonomy preservation:** Joining the coalition does not require surrendering existing brand, funding relationships, or technical choices.
+3. **Graduated commitment:** Initial engagement is a letter of intent or MoU; formal membership with governance rights follows after the coalition structure is ratified.
+
+## Governance sketch
+
+The coalition will operate under a **lightweight federated governance model** — appropriate given its subject matter. A proposed structure:
+
+- **Steering Committee:** One seat per anchor partner (max 9 seats). Decides on strategy, budget, and new member admissions.
+- **Secretariat:** A small team (1–2 FTE) responsible for coordination, grant administration, and communication. Hosted by an existing organisation in year one.
+- **Working Groups:** Technical, Policy, Funding — open to associate partners and community members.
+- **Annual Assembly:** Open to all community stakeholders; advisory role; ratifies major decisions.
+
+Governance documents (articles, MoU template, decision-making protocol) are listed in Appendix A as artefacts to be produced.
